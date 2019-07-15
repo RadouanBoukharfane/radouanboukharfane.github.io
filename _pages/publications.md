@@ -32,8 +32,8 @@ author_profile: true
 
 ## Reports
 
-- PhD thesis, [Contribution à la simulation numérique d'écoulements turbulents compressibles canoniques](
-https://tel.archives-ouvertes.fr/tel-01878795/document), under the supervision of [Arnaud Mura](https://www.researchgate.net/profile/Arnaud_Mura) and [Zakaria Bouali](https://www.researchgate.net/profile/Zakaria_Bouali)
+- PhD thesis,"[Contribution à la simulation numérique d'écoulements turbulents compressibles canoniques](
+https://tel.archives-ouvertes.fr/tel-01878795/document)", under the supervision of [Arnaud Mura](https://www.researchgate.net/profile/Arnaud_Mura) and [Zakaria Bouali](https://www.researchgate.net/profile/Zakaria_Bouali)
 
 ## Awards
 
