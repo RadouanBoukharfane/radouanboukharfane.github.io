@@ -39,8 +39,6 @@ https://tel.archives-ouvertes.fr/tel-01878795/document), under the supervision o
 
 ## Awards
 
-- **2018** _GDR ISIS_ Travel Grant for PhD mobility at EPFL
-- **2017 - 2018** _NIPS Workshop Black in AI_ Travel Grant
 - **2013 - 2014** Scholarship of Moroccan students of *French Grandes Écoles*
 - **2015 - 2018** Merit Scholarship
 - **2009 - 2013** Scholarship of Moroccan students of *French Grandes Écoles*
