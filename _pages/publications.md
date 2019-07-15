@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /cv/
+permalink: /Publications/
 author_profile: true
 redirect_from:
-  - /resume
+  - /publications
 ---
 
 {% include base_path %}
