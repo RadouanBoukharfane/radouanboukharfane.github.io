@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> 
-I’m a postdoctoral fellow in the [Extreme Computing Research Center (ECRC)](https://ecrc.kaust.edu.sa/), [Computer Electrical and Mathematical Science and Engineering Division (CEMSE)](https://cemse.kaust.edu.sa/), KAUST (Thuwal, Saudi Arabia), hosted by [Matteo Parsani](https://www.kaust.edu.sa/en/study/faculty/matteo-parsani). I did my PhD at [P' Institute](https://www.pprime.fr) (Poiters, France), under the supervision of [Arnaud Mura](https://www.researchgate.net/profile/Arnaud_Mura) in the Fluids, Thermal Science and Combustion Department of [P' Institute](https://www.pprime.fr).</div>
+I’m a postdoctoral fellow in the [Extreme Computing Research Center (ECRC)](https://ecrc.kaust.edu.sa/), [Computer Electrical and Mathematical Science and Engineering Division (CEMSE)](https://cemse.kaust.edu.sa/), KAUST (Thuwal, Saudi Arabia), hosted by [Matteo Parsani](https://www.kaust.edu.sa/en/study/faculty/matteo-parsani). I did my PhD at [P' Institute](https://www.pprime.fr) (Poiters, France), under the supervision of [Arnaud Mura](https://www.researchgate.net/profile/Arnaud_Mura) in the Fluids, Thermal Science and Combustion Department of [P' Institute](https://www.pprime.fr).
 
-<div style="text-align: justify"> 
-My research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering. I worked also on the analysis of complex fluid media (i.e., featuring shock, multicomponent, and/or reactive) with a special practical system, i.e. rocket propulsion.</div>
+My research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering. I worked also on the analysis of complex fluid media (i.e., featuring shock, multicomponent, and/or reactive) with a special practical system, i.e. rocket propulsion.
 
-<div style="text-align: justify"> 
 I received the Masters degrees in 2013 from [ISAE-SupAero](https://www.isae-supaero.fr/en/) (Toulouse, France), where I studied aerspace and aeronautics engineeering, and from 
-[Polytechnique de Montreal](https://www.polymtl.ca/) (Montreal, Canada), where I studied advanced numerical methods applied on fluid dynamics.</div>
+[Polytechnique de Montreal](https://www.polymtl.ca/) (Montreal, Canada), where I studied advanced numerical methods applied on fluid dynamics.
