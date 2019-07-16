@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Radouan Boukharfane personal webpage"
+title                    : "Radouan Boukharfane webpage"
 title_separator          : "-"
 name                     : &name "Radouan Boukharfane"
 description              : &description "Postdoctoral fellow at KAUST"
