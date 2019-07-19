@@ -22,9 +22,9 @@ author_profile: true
 
 - Radouan Boukharfane, Julien Bodart, Marc Jacob, Laurent Joly, Thibault Bridel-Bertomeu, and Thomas Node-Langlois. "[Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds number](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2722)". *25th AIAA/CEAS Aeroacoustics Conference*, Delft, The Netherlands, 20-24 May 2019.
 
-- Radouan Boukharfane, Zakaria Bouali, and Arnaud Mura. "Direct numerical simulations of shock-scalar mixing interaction". *26th ICDERS*, Boston, USA, 30 July-4 August 2017.
+- Radouan Boukharfane, Zakaria Bouali, and Arnaud Mura. "[Direct numerical simulations of shock-scalar mixing interaction](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf)". *26th ICDERS*, Boston, USA, 30 July-4 August 2017.
 
-- Radouan Boukharfane, Benjamin Bouvelle, Zakaria Bouali, and Arnaud Mura. "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles". *25th ICDERS*, Leeds, UK, 2-7 August 2015.
+- Radouan Boukharfane, Benjamin Bouvelle, Zakaria Bouali, and Arnaud Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". *25th ICDERS*, Leeds, UK, 2-7 August 2015.
 
 - Radouan Boukharfane, Arnaud Mura, Pedro José Martínez Ferrer, andu Vincent Giovangigli. "[The role of bulk viscosity on the development of reacting compressible shear layer](https://www.iccfd.org/iccfd10/papers/ICCFD10-086-Paper.pdf)". *10th ICCFD*, Barcelona, Spain, 1-13 July 2018.
 
