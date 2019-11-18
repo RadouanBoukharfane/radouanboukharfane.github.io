@@ -9,9 +9,11 @@ author_profile: true
 
 ## Journal papers
 
-- Radouan Boukharfane, Fábio Henrique Eugênio Ribeiro, Zakaria Bouali, and Arnaud Mura. "[A combined ghost-point-forcing/direct-forcing immersed boundary method (IBM) for compressible flow simulations](https://www.sciencedirect.com/science/article/pii/S0045793017304267)". *Computers & Fluids* 162 (2018): 91-112.
+- Fábio Henrique Eugênio Ribeiro, Radouan Boukharfane, and Arnaud Mura. "[Highly-resolved large-eddy simulations of combustion stabilization in a scramjet engine model with cavity flameholder](https://www.sciencedirect.com/science/article/abs/pii/S0045793019303032?CMX_ID=&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&utm_acid=201394456&utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_dgroup=Email1Publishing&utm_in=DM605037&utm_medium=email&utm_source=AC_30)". *Computers & Fluids* (2019): 104344.
 
 - Radouan Boukharfane, Pedro José Martínez Ferrer, Arnaud Mura, and Vincent Giovangigli. "[On the role of bulk viscosity in compressible reactive shear layer developments](https://www.sciencedirect.com/science/article/pii/S099775461830565X)". *European Journal of Mechanics-B/Fluids* 77 (2019): 32-47.
+
+- Radouan Boukharfane, Fábio Henrique Eugênio Ribeiro, Zakaria Bouali, and Arnaud Mura. "[A combined ghost-point-forcing/direct-forcing immersed boundary method (IBM) for compressible flow simulations](https://www.sciencedirect.com/science/article/pii/S0045793017304267)". *Computers & Fluids* 162 (2018): 91-112.
 
 - Radouan Boukharfane, Zakaria Bouali, and Arnaud Mura. "[Evolution of scalar and velocity dynamics in planar shock-turbulence interaction](https://link.springer.com/article/10.1007/s00193-017-0798-5)". *Shock Waves* 28, no. 6 (2018): 1117-1141.
 
