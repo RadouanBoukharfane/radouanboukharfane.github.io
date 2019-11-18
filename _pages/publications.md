@@ -20,7 +20,7 @@ author_profile: true
 
 ## Conference papers
 
-- Anthony Techer, Radouan Boukharfane, Guillaume Lehnasch, and Arnaud Mura. "Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion". *27th ICDERS*, Beijing, China, 28 July 28-2 August 2019.
+- Anthony Techer, Radouan Boukharfane, Guillaume Lehnasch, and Arnaud Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf)". *27th ICDERS*, Beijing, China, 28 July 28-2 August 2019.
 
 - Radouan Boukharfane, Julien Bodart, Marc Jacob, Laurent Joly, Thibault Bridel-Bertomeu, and Thomas Node-Langlois. "[Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds number](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2722)". *25th AIAA/CEAS Aeroacoustics Conference*, Delft, The Netherlands, 20-24 May 2019.
 
