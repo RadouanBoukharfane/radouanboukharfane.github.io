@@ -17,6 +17,11 @@ author_profile: true
 
 - Radouan Boukharfane, Zakaria Bouali, and Arnaud Mura. "[Evolution of scalar and velocity dynamics in planar shock-turbulence interaction](https://link.springer.com/article/10.1007/s00193-017-0798-5)". *Shock Waves* 28, no. 6 (2018): 1117-1141.
 
+## Submitted papers
+
+- Diego Rojas, Radouan Boukharfane, Lisandro Dalcin, David Cesar Del Rey Fernandez, Hendrik Ranocha, David Keyes, and Matteo Parsani. "[On the robustness and performance of entropy stable discontinuous collocation methods](https://arxiv.org/abs/1911.10966)". (2019).
+
+- Matteo Parsani, Radouan Boukharfane, Irving Reyna Nolasco, David Cesar Del Rey Fernandez, Stefano Zampini, and Lisandro Dalcin. "Unveiling the potential of high-order accurate entropy stable discontinuous collocated Galerkin methods for the next generation of compressible CFD frameworks: SSDC algorithms and flow solver". (2020).
 
 ## Conference papers
 
