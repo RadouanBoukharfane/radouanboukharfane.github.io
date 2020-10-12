@@ -9,6 +9,10 @@ author_profile: true
 
 ## Journal papers
 
+- Diego Rojas, Radouan Boukharfane, Lisandro Dalcin, David C. Del Rey Fernàndez, Hendrik Ranocha, David E. Keyes, Matteo Parsani. "[On the robustness and performance of entropy stable discontinuous collocation methods](https://arxiv.org/abs/1911.10966)". *Journal of Computational Physics*, accepted, (_2021_).
+
+- Matteo Parsani, Radouan Boukharfane, Irving Reyna Nolasco, David C. Del Rey Fernàndez, Stefano Zampini, Bilel Hadri, Lisandro Dalcin. "[High-order accurate entropy-stable discontinuous collocated Galerkin methods with the summation-by-parts property for compressible CFD frameworks: Scalable SSDC algorithms and flow solver](https://doi.org/10.1016/j.jcp.2020.109844)". *Journal of Computational Physics*, Volume 424, 109844 (_2021_).
+
 - Radouan Boukharfane, Matteo Parsani, and Julien Bodart. "[Characterization of pressure fluctuations within a controlled-diffusion blade boundary layer using the equilibrium wall-modelled LES](https://doi.org/10.1038/s41598-020-69671-y). *Scientific Reports - Nature*, 10, 12735 (_2020_).
 
 - Fábio Henrique Eugênio Ribeiro, Radouan Boukharfane, and Arnaud Mura. "[Highly-resolved large-eddy simulations of combustion stabilization in a scramjet engine model with cavity flameholder](https://www.sciencedirect.com/science/article/abs/pii/S0045793019303032?CMX_ID=&SIS_ID=-1&dgcid=STMJ_75273_AUTH_SERV_PPUB&utm_acid=201394456&utm_campaign=STMJ_75273_AUTH_SERV_PPUB&utm_dgroup=Email1Publishing&utm_in=DM605037&utm_medium=email&utm_source=AC_30)". *Computers & Fluids* (_2020_): 104344.
@@ -21,11 +25,8 @@ author_profile: true
 
 ## Submitted papers
 
-- Radouan Boukharfane, Aimad Er-raiy, Linda Alzaben, and Matteo Parsani. "Triple decomposition of velocity gradient tensor in compressible turbulence". Submitted to European Journal of Mechanics - B/Fluids (2020).
+- Radouan Boukharfane, Aimad Er-raiy, Linda Alzaben, and Matteo Parsani. "Triple decomposition of velocity gradient tensor in compressible turbulence". Submitted to European Journal of Mechanics - B/Fluids (2020)
 
-- Diego Rojas, Radouan Boukharfane, Lisandro Dalcin, David C. Del Rey Fernàndez, Hendrik Ranocha, David Keyes, and Matteo Parsani. "[On the robustness and performance of entropy stable discontinuous collocation methods](https://arxiv.org/abs/1911.10966)". Submitted to JCP (2020).
-
-- Matteo Parsani, Radouan Boukharfane, Irving Reyna Nolasco, David C. Del Rey Fernàndez, Stefano Zampini, and Lisandro Dalcin. "High-order accurate entropy stable discontinuous collocated methods for the next generation of compressible CFD frameworks: SSDC algorithms and flow solver	". Submitted to JCP (2020).
 
 ## Conference papers
 
