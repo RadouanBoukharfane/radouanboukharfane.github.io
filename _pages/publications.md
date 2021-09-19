@@ -32,17 +32,43 @@ author_profile: true
 
 ## Conference papers
 
-- Anthony Techer, Radouan Boukharfane, Guillaume Lehnasch, and Arnaud Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf)". *27th ICDERS*, Beijing, China, 28 July 28-2 August 2019.
+- R. Boukharfane, S. Benjelloun, M. Parsani , and  N. Chakraborty. "Investigation of turbulence statistics in two-phase gas-liquid flow". *13th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements*, Rhodes, Greece, 15-17 September, (_2021_).
 
-- Radouan Boukharfane, Julien Bodart, Marc Jacob, Laurent Joly, Thibault Bridel-Bertomeu, and Thomas Node-Langlois. "[Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds number](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2722)". *25th AIAA/CEAS Aeroacoustics Conference*, Delft, The Netherlands, 20-24 May 2019.
 
-- Radouan Boukharfane, Zakaria Bouali, and Arnaud Mura. "[Direct numerical simulations of shock-scalar mixing interaction](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf)". *26th ICDERS*, Boston, USA, 30 July-4 August 2017.
+- A. Er-raiy, R. Boukharfane, L. Alzaben  , and  M. Parsani. "Assessment of local and non–local turbulent flow components on turbulence–flame interaction". *8th European Thermal Sciences Conference*, 20-23 September, (_2021_).
 
-- Radouan Boukharfane, Benjamin Bouvelle, Zakaria Bouali, and Arnaud Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". *25th ICDERS*, Leeds, UK, 2-7 August 2015.
+- R. Boukharfane, A. Er-raiy, M. Parsani , and  Bilel Hadri. "[Skewness effects on the turbulence structure in a high-speed compressible and multi-component inert mixing layers](https://doi.org/10.2514/6.2021-2915)". *AIAA Aviation Forum and Exposition*, 2-6 Aug, (_2021_).
 
-- Radouan Boukharfane, Arnaud Mura, Pedro José Martínez Ferrer, andu Vincent Giovangigli. "[The role of bulk viscosity on the development of reacting compressible shear layer](https://www.iccfd.org/iccfd10/papers/ICCFD10-086-Paper.pdf)". *10th ICCFD*, Barcelona, Spain, 1-13 July 2018.
+- Irving E. Nolasco, M. Parsani, L. Dalcin , and  R. Boukharfane. "Eigenanalysis and non-modal analysis of entropy stable discretizations with the summation by parts property". International Conference on Spectral and High Order Methods, 12-16 July, Vienna, Austria, (_2021_)
 
-- Fábio Henrique Eugênio Ribeiro, Radouan Boukharfane, Vincent Robin, and Arnaud Mura. "[Numerical study of combustion stabilization in a Scramjet engine model with cavity flameholder](https://www.iccfd.org/iccfd10/papers/ICCFD10-189-Paper.pdf)". *10th ICCFD*, Barcelona, Spain, 1-13 July 2018.
+- R. Boukharfane, M. Parsani, L. Joly , and  J. Bodart. "A study of pressure fluctuations over a Controlled-Diffusion airfoil at high Reynolds number using WMLES". *32nd Parallel Computational Fluid Dynamics Conference*, Nice, France, 17-19 May (_2021_).
+
+- M. Parsani, R. Boukharfane, Irving E. Nolasco, L. Dalcin , and  D. E. Keyes. ["Simulation of turbulent flows using a fully discrete explicit hp--nonconforming entropy stable solver of any order on unstructured grids"](https://doi.org/10.2514/6.2021-0495). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+
+- R. Boukharfane, A. Er--raiy , and  M. Parsani. "[Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor"](https://doi.org/10.2514/6.2021-1446). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+
+- R. Al Jahdali, R. Boukharfane, L. Dalcin, , and  M. Parsani. ["Optimized explicit Runge--Kutta schemes for entropy stable discontinuous collocated methods applied to the compressible Euler equations on unstructured grids"](https://doi.org/10.2514/6.2021-0633). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+
+- R. Messahel, A. Boutsikakis, G. Grondin, J. Gressier, M. Parsani , and  R. Boukharfane. "[A robust explicit asynchronous time integration method for hyperbolic conservation laws"](https://doi.org/10.2514/6.2021-0054). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+
+- A. Er--raiy, R. Boukharfane , and  M. Parsani. "[Joint effects of differential diffusion and the stratification length-scale on flame kernel development"](https://doi.org/10.2514/6.2021-0680). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+
+
+- A. Techer, R. Boukharfane, G. Lehnasch , and  A. Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion"](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf). *27th ICDERS*, Beijing, China, 28 July 28- 2 August (_2019_).
+
+
+- R. Boukharfane, J. Bodart, M. C. Jacob, L. Joly, T. Bridel--Bertomeu , and  T. Node--Langlois. ["Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds numbers"](https://doi.org/10.2514/6.2019-2722). *25th AIAA/CEAS Aeroacoustics Conference*, p. 2722, (_2019_). 
+
+- R. Boukharfane, A. Mura, P. J. M. Ferrer , and  V. Giovangigli. ["The role of bulk viscosity on the development of reacting compressible shear layer"](https://www.iccfd.org/iccfd10/papers/ICCFD10-086-Paper.pdf). *10th ICCFD*, Barcelona, Spain, 1-13 July (_2018_).
+
+- F. H. E. Ribeiro, R. Boukharfane, V. Robin , and  A. Mura. ["Numerical study of combustion stabilization in a Scramjet engine model with cavity flameholder"](https://www.iccfd.org/iccfd10/papers/ICCFD10-189-Paper.pdf). *10th ICCFD*, Barcelona, Spain, 1-13 July (_2018_).
+
+- R. Boukharfane, Z. Bouali $, and $ A. Mura. ["Direct numerical simulations of shock--scalar mixing interaction"](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf). *26th ICDERS*, Boston, USA, 30 July-4 August (_2017_).
+
+- R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf}). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
+
+
+
 
 ## Reports
 
