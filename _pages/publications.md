@@ -65,7 +65,7 @@ author_profile: true
 
 - R. Boukharfane, Z. Bouali $, and $ A. Mura. ["Direct numerical simulations of shock--scalar mixing interaction"](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf). *26th ICDERS*, Boston, USA, 30 July-4 August (_2017_).
 
-- R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
+- R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. ["An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
 
 
 
