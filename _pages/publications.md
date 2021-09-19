@@ -41,7 +41,7 @@ author_profile: true
 
 - Irving E. Nolasco, M. Parsani, L. Dalcin , and  R. Boukharfane. "Eigenanalysis and non-modal analysis of entropy stable discretizations with the summation by parts property". International Conference on Spectral and High Order Methods, 12-16 July, Vienna, Austria, (_2021_)
 
-- R. Boukharfane, M. Parsani, L. Joly , and  J. Bodart. "A study of pressure fluctuations over a Controlled-Diffusion airfoil at high Reynolds number using WMLES". *32nd Parallel Computational Fluid Dynamics Conference*, Nice, France, 17-19 May (_2021_).
+- R. Boukharfane, M. Parsani, L. Joly , and  J. Bodart. ["A study of pressure fluctuations over a Controlled-Diffusion airfoil at high Reynolds number using WMLES"](https://parcfd2020.sciencesconf.org/program). *32nd Parallel Computational Fluid Dynamics Conference*, Nice, France, 17-19 May (_2021_).
 
 - M. Parsani, R. Boukharfane, Irving E. Nolasco, L. Dalcin , and  D. E. Keyes. ["Simulation of turbulent flows using a fully discrete explicit hp--nonconforming entropy stable solver of any order on unstructured grids"](https://doi.org/10.2514/6.2021-0495). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
 
