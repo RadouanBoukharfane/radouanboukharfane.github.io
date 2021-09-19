@@ -83,12 +83,12 @@ author:
   name             : "Radouan Boukharfane"
   avatar           : "mypic.jpg"
   bio              : "Research & Education Fellow"
-  location         : "KAUST"
+  location         : "MSDA/UM6P"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=EPSVagEAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Radouan-Boukharfane"
   uri              :
   bitbucket        :
   codepen          :
