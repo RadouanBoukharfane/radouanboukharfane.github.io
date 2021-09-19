@@ -32,7 +32,7 @@ author_profile: true
 
 ## Conference papers
 
-- R. Boukharfane, S. Benjelloun, M. Parsani , and  N. Chakraborty. "Investigation of turbulence statistics in two-phase gas-liquid flow". *13th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements*, Rhodes, Greece, 15-17 September, (_2021_).
+- R. Boukharfane, S. Benjelloun, M. Parsani , and  N. Chakraborty. ["Investigation of turbulence statistics in two-phase gas-liquid flow"](https://etmm.ercoftac.org/etmm13/program/). *13th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements*, Rhodes, Greece, 15-17 September, (_2021_).
 
 
 - A. Er-raiy, R. Boukharfane, L. Alzaben  , and  M. Parsani. "Assessment of local and non–local turbulent flow components on turbulence–flame interaction". *8th European Thermal Sciences Conference*, 20-23 September, (_2021_).
@@ -65,7 +65,7 @@ author_profile: true
 
 - R. Boukharfane, Z. Bouali $, and $ A. Mura. ["Direct numerical simulations of shock--scalar mixing interaction"](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf). *26th ICDERS*, Boston, USA, 30 July-4 August (_2017_).
 
-- R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf}). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
+- R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
 
 
 
