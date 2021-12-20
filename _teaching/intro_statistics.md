@@ -24,5 +24,5 @@ statistique, les consignes de réalisation lui étant précisées, de mobiliser,
 -	Structurer les informations intermédiaires nécessaires ;
 -	Appliquer les techniques de traitement des données pour :
 -	Calculer: moyenne, écart- type, variance, médiane, quartiles, ...;
-3.	Justifier l’apport du traitement statistique dans la prise de décision
+3.	Justifier l’apport du traitement statistique dans la prise de décision.
 

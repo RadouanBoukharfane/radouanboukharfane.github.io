@@ -9,7 +9,9 @@ location: "Benguerir, Morocco"
 ---
 
 
-GPUs are becoming more and more popular and nowadays they are widely available. During this course you will receive an introduction about numerical methods on GPU.
+The Graphics Processing Unit or GPU is nowadays a mainstream component in Scientific Computing. For relatively little money one can have supercomputer performance. However, some extra work has to be done to make an ordinary sequential program suitable for use on the GPU.
+One of the most important tools for using GPUs is currently "CUDA" (Compute Unified Device Architecture). This is basically an extension to the C programming language, which can be used to program the GPU in an easy way. 
+During this course you will learn the basic principles of GPU programming and let you practise with many examples. After this course you should be able to make simple CUDA programs which can be run on a GPU.
 
 ### Course contents
 
