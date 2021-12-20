@@ -1,12 +1,15 @@
 ---
 title: "Introduction to GPU Programming"
 collection: teaching
-type: "MSD2 2021"
+type: "Master Modélisation et Sciences des Données"
 permalink: /teaching/gpu_programming
 venue: "UM6P"
 date: 2021-09-01
 location: "Benguerir, Morocco"
 ---
+
+
+GPUs are becoming more and more popular and nowadays they are widely available. During this course you will receive an introduction about numerical methods on GPU.
 
 ### Course contents
 
