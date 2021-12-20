@@ -3,7 +3,7 @@ title: "Introduction to GPU Programming"
 collection: teaching
 type: "Master Modélisation et Sciences des Données"
 permalink: /teaching/gpu_programming
-venue: "UM6P"
+venue: "Université Mohammed VI Polytechnique"
 date: 2021-09-01
 location: "Benguerir, Morocco"
 ---
