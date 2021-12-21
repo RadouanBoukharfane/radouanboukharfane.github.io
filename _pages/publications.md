@@ -68,6 +68,16 @@ author_profile: true
 - R. Boukharfane, B. Bouvelle, Z. Bouali , and  A. Mura. ["An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
 
 
+## Talks and presentations
+
+-	"Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion". _27th ICDERS_, Beijing, China, 2019.
+
+-	"Direct numerical simulations of shock-scalar mixing interaction". _26th ICDERS_>, Boston, USA, 2017.
+
+-	"An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles". _25th ICDERS_, Leeds, UK, 2015.
+
+-	"The role of bulk viscosity on the development of reacting compressible shear layer". _10th ICCFD_, Barcelona, Spain, 2018.
+
 
 
 ## Reports
