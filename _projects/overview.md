@@ -1,6 +1,8 @@
 ---
 title: "Research Interests"
-excerpt: "MSDA CFD Group"
+excerpt: "MSDA CFD Group 
+My research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering. I worked also on the analysis of complex fluid media, with a special practical system, i.e. rocket propulsion.
+"
 collection: projects
 ---
 
