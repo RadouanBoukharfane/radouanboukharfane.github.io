@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 __Welcome to my web page__
-===
+
 
 <p style='text-align: justify;'> 
 This site is pretty bare-bones right now, but hopefully over the next few years it will develop into something that is more useful. In the meantime, feel free to explore.
