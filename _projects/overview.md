@@ -1,7 +1,14 @@
 ---
 title: "MSDA CFD Group"
 excerpt: " 
-My research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering. I worked also on the analysis of complex fluid media, with a special practical system, i.e. rocket propulsion.
+The CFD group at MSDA/UM6P is a research group that includes two professors, graduate students and undergraduate students who undergo a wide range of studies and simulations related to computational fluid dynamics. Working with both development and applied numerical studies, the group is gaining a great expertise and knowledge in the CFD domain, which is currently the widest as well as the most efficient fluid flow testing tool. 
+
+Now CFD is considered the number one tool among all fluid testing units due to the availability of high tech computers besides commercial and open-source CFD packages and libraries accessible to almost every one.
+
+Our mission at the CFD group at MSDA/UM6P is to help develop the science of CFD by devising new mathematical methodologies that render more robust CFD simulations. We also aim at conducting CFD analysis for different domains such as air-conditioing, oil and gas, aerodynamics, blood flow in arteries, heat transfer issues .. etc.
+
+
+For the moment, our research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering.
 "
 collection: projects
 ---
