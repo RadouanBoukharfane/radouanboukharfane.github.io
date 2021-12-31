@@ -35,3 +35,5 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 -	Shock/Turbulence interaction
 
+
+<img src='/images/gal1.png'>
