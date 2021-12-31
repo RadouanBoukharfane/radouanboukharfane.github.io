@@ -35,5 +35,9 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 -	Droplet turbulence interaction
 
+<img src='/images/gal2.png' width="500" >
+
 -	Shock/Turbulence interaction
+
+<img src='/images/gal3.png' width="500" >
 
