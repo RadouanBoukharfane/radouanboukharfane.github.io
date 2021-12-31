@@ -32,19 +32,19 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 *	Droplet turbulence interaction
 
 <center>
-<img src='/images/gal2.png' width="500" >
+<img src='/images/gal2.png' width="400" >
 </center>
 
 *	Shock/Turbulence interaction
 
 <center>
-<img src='/images/gal3.png' width="500" >
+<img src='/images/gal3.png' width="400" >
 </center>
 
 *    Direct Numerical Simulation of turbulent combustion
 
 <center>
-<img src='/images/gal4.png' width="500" >
+<img src='/images/gal4.png' width="400" >
 </center>
 
 *	Multi-scale and Multi-physics simulations
