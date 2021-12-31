@@ -1,5 +1,5 @@
 ---
-title: "Introduction to using OpenFOAM for CFD analysis"
+title: "Introduction to CFD using OpenFOAM Technology"
 collection: teaching
 type: "Licence Sciences des Données"
 permalink: /teaching/intro_openfoam
