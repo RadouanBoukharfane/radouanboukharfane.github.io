@@ -29,6 +29,8 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 <img src='/images/gal1.png' width="400" >
 </center>
 
+---
+
 *	Droplet turbulence interaction
 
 <center>
@@ -41,12 +43,20 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 <img src='/images/gal3.png' width="400" >
 </center>
 
+---
+
 *    Direct Numerical Simulation of turbulent combustion
 
 <center>
 <img src='/images/gal4.png' width="400" >
 </center>
 
+---
+
 *	Multi-scale and Multi-physics simulations
 
+---
+
 *	High Performance Computing
+
+---
