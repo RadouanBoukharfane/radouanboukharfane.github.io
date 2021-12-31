@@ -27,7 +27,7 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 -	Immersed Boundary Method using a level-set description of the geometries
 
-<img src='/images/gal1.png'>
+<img src='/images/gal1.png' width="500" >
 
 -	High Performance Computing
 
