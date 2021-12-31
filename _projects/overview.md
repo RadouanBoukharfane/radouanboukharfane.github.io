@@ -23,18 +23,30 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 ## Current interests
 
--	Immersed Boundary Method using a level-set description of the geometries
+*	Immersed Boundary Method using a level-set description of the geometries
 
-<img src='/images/gal1.png' width="500" >
+<center>
+<img src='/images/gal1.png' width="400" >
+</center>
 
--	Droplet turbulence interaction
+*	Droplet turbulence interaction
 
+<center>
 <img src='/images/gal2.png' width="500" >
+</center>
 
--	Shock/Turbulence interaction
+*	Shock/Turbulence interaction
 
+<center>
 <img src='/images/gal3.png' width="500" >
+</center>
 
--	Multi-scale and Multi-physics simulations
+*    Direct Numerical Simulation of turbulent combustion
 
--	High Performance Computing
+<center>
+<img src='/images/gal4.png' width="500" >
+</center>
+
+*	Multi-scale and Multi-physics simulations
+
+*	High Performance Computing
