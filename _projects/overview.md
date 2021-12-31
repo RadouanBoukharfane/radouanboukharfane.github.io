@@ -23,15 +23,9 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 ## Current interests
 
--	Computational Fluid Dynamics
-
 -	Immersed Boundary Method using a level-set description of the geometries
 
 <img src='/images/gal1.png' width="500" >
-
--	High Performance Computing
-
--	Multi-scale and Multi-physics simulations; Fluid Solid Interactions
 
 -	Droplet turbulence interaction
 
@@ -41,3 +35,6 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 <img src='/images/gal3.png' width="500" >
 
+-	Multi-scale and Multi-physics simulations
+
+-	High Performance Computing
