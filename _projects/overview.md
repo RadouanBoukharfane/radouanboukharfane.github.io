@@ -23,7 +23,7 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 ## Current interests
 
-*	Immersed Boundary Method using a level-set description of the geometries
+*	Immersed Boundary Method
 
 <center>
 <img src='/images/gal1.png' width="400" >
