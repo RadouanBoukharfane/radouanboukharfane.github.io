@@ -27,6 +27,8 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 -	Immersed Boundary Method using a level-set description of the geometries
 
+<img src='/images/gal1.png'>
+
 -	High Performance Computing
 
 -	Multi-scale and Multi-physics simulations; Fluid Solid Interactions
@@ -35,5 +37,3 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 
 -	Shock/Turbulence interaction
 
-
-<img src='/images/gal1.png'>
