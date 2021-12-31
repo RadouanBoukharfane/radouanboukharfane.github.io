@@ -1,5 +1,5 @@
 ---
-title: "Introduction à la statistique descriptive"
+title: "Introduction à la statistique"
 collection: teaching
 type: "Licence Sciences des Données"
 permalink: /teaching/intro_statistics
