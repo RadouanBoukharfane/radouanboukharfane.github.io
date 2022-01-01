@@ -57,15 +57,15 @@ author_profile: true
 
 12.	R. Boukharfane, M. Parsani, L. Joly , and  J. Bodart. ["A study of pressure fluctuations over a Controlled-Diffusion airfoil at high Reynolds number using WMLES"](https://parcfd2020.sciencesconf.org/program). *32nd Parallel Computational Fluid Dynamics Conference*, Nice, France, 17-19 May (_2021_).
 
-11.	M. Parsani, R. Boukharfane, Irving E. Nolasco, L. Dalcin , and  D. E. Keyes. ["Simulation of turbulent flows using a fully discrete explicit hp--nonconforming entropy stable solver of any order on unstructured grids"](https://doi.org/10.2514/6.2021-0495). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+11.	M. Parsani, R. Boukharfane, Irving E. Nolasco, L. Dalcin , and  D. E. Keyes. ["Simulation of turbulent flows using a fully discrete explicit hp--nonconforming entropy stable solver of any order on unstructured grids"](https://doi.org/10.2514/6.2021-0495). *AIAA SCITECH 2021 Forum*, Tennessee, USA, 20-24 May (_2021_).
 
-10.	R. Boukharfane, A. Er--raiy , and  M. Parsani. "[Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor"](https://doi.org/10.2514/6.2021-1446). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+10.	R. Boukharfane, A. Er--raiy , and  M. Parsani. "[Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor"](https://doi.org/10.2514/6.2021-1446). *AIAA SCITECH 2021 Forum*, Tennessee, USA, 20-24 May (_2021_).
 
-9.	R. Al Jahdali, R. Boukharfane, L. Dalcin, , and  M. Parsani. ["Optimized explicit Runge--Kutta schemes for entropy stable discontinuous collocated methods applied to the compressible Euler equations on unstructured grids"](https://doi.org/10.2514/6.2021-0633). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+9.	R. Al Jahdali, R. Boukharfane, L. Dalcin, , and  M. Parsani. ["Optimized explicit Runge--Kutta schemes for entropy stable discontinuous collocated methods applied to the compressible Euler equations on unstructured grids"](https://doi.org/10.2514/6.2021-0633). *AIAA SCITECH 2021 Forum*, Tennessee, USA, 20-24 May (_2021_).
 
-8.	R. Messahel, A. Boutsikakis, G. Grondin, J. Gressier, M. Parsani , and  R. Boukharfane. "[A robust explicit asynchronous time integration method for hyperbolic conservation laws"](https://doi.org/10.2514/6.2021-0054). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+8.	R. Messahel, A. Boutsikakis, G. Grondin, J. Gressier, M. Parsani , and  R. Boukharfane. "[A robust explicit asynchronous time integration method for hyperbolic conservation laws"](https://doi.org/10.2514/6.2021-0054). *AIAA SCITECH 2021 Forum*, Tennessee, USA, 20-24 May (_2021_).
 
-7.	A. Er--raiy, R. Boukharfane , and  M. Parsani. "[Joint effects of differential diffusion and the stratification length-scale on flame kernel development"](https://doi.org/10.2514/6.2021-0680). *AIAA SciTech*, Tennessee, USA, 20-24 May (_2021_).
+7.	A. Er--raiy, R. Boukharfane , and  M. Parsani. "[Joint effects of differential diffusion and the stratification length-scale on flame kernel development"](https://doi.org/10.2514/6.2021-0680). *AIAA SCITECH 2021 Forum*, Tennessee, USA, 20-24 May (_2021_).
 
 6.	A. Techer, R. Boukharfane, G. Lehnasch , and  A. Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion"](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf). *27th ICDERS*, Beijing, China, 28 July 28- 2 August (_2019_).
 
