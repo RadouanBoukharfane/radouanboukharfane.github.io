@@ -85,7 +85,7 @@ author_profile: true
 
 -	"Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion". _27th ICDERS_, Beijing, China, 2019.
 
--	"Direct numerical simulations of shock-scalar mixing interaction". _26th ICDERS_>, Boston, USA, 2017.
+-	"Direct numerical simulations of shock-scalar mixing interaction". _26th ICDERS_, Boston, USA, 2017.
 
 -	"An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles". _25th ICDERS_, Leeds, UK, 2015.
 
