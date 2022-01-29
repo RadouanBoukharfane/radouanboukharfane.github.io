@@ -15,6 +15,14 @@ For the moment, our research interests are related to the design and implementat
 collection: projects
 ---
 
+## Advising and Mentoring
+
+- PhD students
+
+* 2022-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
+* 2022-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
+
+
 ## Overview
 All of our research projects fall in the category of computational science, which is the multi-disciplinary mix of applied math and numerical methods, programming for massively parallel supercomputing, and the physics of turbulence and fluid mechanics. 
 

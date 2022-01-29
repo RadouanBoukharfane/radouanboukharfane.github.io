@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-__Welcome to my web page__
+__Welcome to my personal webpage__
 
 
 This site is pretty bare-bones right now, but hopefully over the next few years it will develop into something that is more useful. In the meantime, feel free to navigate.
