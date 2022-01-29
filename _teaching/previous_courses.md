@@ -1,9 +1,11 @@
 ---
 title: "Previous teaching activities"
 collection: teaching
-type: "Licence Sciences des Données"
+type: "Postgraduate Degree"
 permalink: /teaching/previous_courses
-venue: "Université Mohammed VI Polytechnique"
+venue: ""
+date: "2015-2021"
+
 ---
 
 The list of courses I have taught when I was PhD student or Postdoctoral fellow.
