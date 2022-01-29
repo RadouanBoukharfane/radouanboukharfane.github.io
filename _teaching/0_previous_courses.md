@@ -2,9 +2,9 @@
 title: "Previous teaching activities"
 collection: teaching
 type: "Postgraduate degrees"
-permalink: /teaching/0_previous_courses
+permalink: /teaching/previous_courses
 venue: ""
-date: 2015-2019
+date: "2015-2019"
 location: ""
 ---
 
