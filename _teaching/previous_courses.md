@@ -6,6 +6,7 @@ permalink: /teaching/previous_courses
 venue: "Université Mohammed VI Polytechnique"
 ---
 
+The list of courses I have taught when I was PhD student or Postdoctoral fellow.
 
 
 - At ISAE/SupAero (Toulouse, 2018 - 2019)
