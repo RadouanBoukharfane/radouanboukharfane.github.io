@@ -12,7 +12,7 @@ Our mission at the CFD group at MSDA/UM6P is to help develop the science of CFD 
 
 For the moment, our research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering.
 "
-collection: projects
+collection: research
 ---
 
 ## Overview
