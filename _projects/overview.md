@@ -18,6 +18,7 @@ collection: projects
 ## Advising and Mentoring
 
 - PhD students
+---
 
 	*	2022-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
 	*	2022-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
