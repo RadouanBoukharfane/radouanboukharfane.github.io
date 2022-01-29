@@ -9,7 +9,6 @@ location: "Benguerir, Morocco"
 ---
 
 
-Dsssss
 Ce cours constitue une introduction à la statistique, destiné aux étudiants de première année Licence Sciences des Données.  Son but principal est de donner les éléments de base permettant de comprendre, d'interpréter et de critiquer les informations à caractère statistique. L'accent est mis sur l'utilisation pratique et non sur la rigueur mathématique. L'emploi de formules est réduit au maximum et celles-ci sont simplifiées autant que possible sans affecter la qualité des résultats.
 
 
