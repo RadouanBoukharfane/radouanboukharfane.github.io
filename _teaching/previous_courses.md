@@ -3,7 +3,7 @@ title: "Previous teaching activities"
 collection: teaching
 type: "Postgraduate Degree"
 permalink: /teaching/previous_courses
-venue: ""
+venue: "Toulouse and Poitiers (France)"
 date: "2015-2021"
 
 ---
