@@ -21,7 +21,7 @@ The course focuses on three main topics:
 
 -	GPU programming with CUDA. The CUDA concepts and how to use them to develop applications for GPU are introduced by making examples from different fields, such as image processing or scientific computing. Also development tools, such debuggers and performance monitoring tools are presented.
 
--	GPU programming with GPU libraries and frameworks. High-productivity computing frameworks, among which OpenACC, are presented. 
+-	GPU programming with GPU libraries and frameworks. High-productivity computing frameworks, among which OpenACC, will be presented. 
 
 Students will be given access to the GPU cluster, Tegner, at PDC if they do not have access to a computer with GPU.
 
