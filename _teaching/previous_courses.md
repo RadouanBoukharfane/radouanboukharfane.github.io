@@ -3,9 +3,9 @@ title: "Previous teaching activities"
 collection: teaching
 type: "Postgraduate Degree"
 permalink: /teaching/previous_courses
-venue: "ISAE/Suapero and ISAE/ENSMA"
+venue: "ISAE/Supaero and ISAE/ENSMA"
 date: 2019-09-01
-location: "Toulouse and Poitiers, Morocco"
+location: "Toulouse and Poitiers (France)"
 ---
 
 The list of courses I have taught when I was PhD student or Postdoctoral fellow.
