@@ -19,6 +19,6 @@ I did my PhD at [P' Institute](https://www.pprime.fr) (Poiters, France) in the F
 
 <p>
     <img src='/images/jet_view5.png' alt>
-    <em>image_caption</em>
+    <center><em>Q-criterion colored by the velocity magnitude of the NASA juncture flow (generated with the help of Irving E. Reyna Nolasco) </em></center>
 </p>
 
