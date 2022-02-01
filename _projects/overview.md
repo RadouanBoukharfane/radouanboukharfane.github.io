@@ -1,5 +1,5 @@
 ---
-title: "MSDA CFD Group <center><img src='/images/gal1.png'></center>"
+title: "MSDA CFD Group"
 excerpt: " 
 The CFD group at MSDA/UM6P is a research group that includes two professors, graduate students and undergraduate students who undergo a wide range of studies and simulations related to computational fluid dynamics. Working with both development and applied numerical studies, the group is gaining a great expertise and knowledge in the CFD domain, which is currently the widest as well as the most efficient fluid flow testing tool. 
 
@@ -26,6 +26,11 @@ collection: projects
 
 ## Overview
 All of our research projects fall in the category of computational science, which is the multi-disciplinary mix of applied math and numerical methods, programming for massively parallel supercomputing, and the physics of turbulence and fluid mechanics. 
+
+
+<center>
+<img src='/images/jet_view5.png' width="700" >
+</center>
 
 Our overall vision is to bring high-fidelity turbulence simulations to the point where they can be routinely applied to real problems in engineering practice. This vision informs all of our work. In some projects we use supercomputing resources to learn more about turbulence physics, and we then try to take that knowledge to build new theoretical models that can be used to make predictions, build lower-cost models, and in general encode our understanding. In other projects we directly develop new algorithms or mathematical models, and then always with a mindfulness of how they would be used in practice.
 
