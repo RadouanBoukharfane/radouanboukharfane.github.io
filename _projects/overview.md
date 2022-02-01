@@ -1,5 +1,5 @@
 ---
-title: "MSDA CFD Group"
+title: "MSDA CFD Group <center><img src='/images/gal1.png' width="400"></center>"
 excerpt: " 
 The CFD group at MSDA/UM6P is a research group that includes two professors, graduate students and undergraduate students who undergo a wide range of studies and simulations related to computational fluid dynamics. Working with both development and applied numerical studies, the group is gaining a great expertise and knowledge in the CFD domain, which is currently the widest as well as the most efficient fluid flow testing tool. 
 
