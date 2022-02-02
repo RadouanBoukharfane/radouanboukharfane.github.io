@@ -12,8 +12,9 @@ __Welcome to my personal webpage__
 
 <hr style="border:3px solid black">
 
-
+<p align="justify">
 This site is pretty bare-bones right now, but hopefully over the next few years it will develop into something that is more useful. In the meantime, feel free to navigate.
+</p>
 
 <hr style="border:3px solid black">
 
