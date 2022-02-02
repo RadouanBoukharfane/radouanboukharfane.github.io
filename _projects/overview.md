@@ -15,6 +15,8 @@ For the moment, our research interests are related to the design and implementat
 collection: projects
 ---
 
+<hr style="border:3px solid black">
+
 ## Advising and Mentoring
 
 - PhD students
@@ -23,6 +25,7 @@ collection: projects
 	*	2022-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
 	*	2022-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
 
+<hr style="border:3px solid black">
 
 ## Overview
 All of our research projects fall in the category of computational science, which is the multi-disciplinary mix of applied math and numerical methods, programming for massively parallel supercomputing, and the physics of turbulence and fluid mechanics. 
@@ -30,44 +33,14 @@ All of our research projects fall in the category of computational science, whic
 Our overall vision is to bring high-fidelity turbulence simulations to the point where they can be routinely applied to real problems in engineering practice. This vision informs all of our work. In some projects we use supercomputing resources to learn more about turbulence physics, and we then try to take that knowledge to build new theoretical models that can be used to make predictions, build lower-cost models, and in general encode our understanding. In other projects we directly develop new algorithms or mathematical models, and then always with a mindfulness of how they would be used in practice.
 
 
+<hr style="border:3px solid black">
+
 ## Current interests
 
-*	Immersed Boundary Method
-
-<center>
-<img src='/images/gal1.png' width="400" >
-</center>
-
----
-
+*	Physics of supersonic turbulence & multiphase flows.
 *	Droplet turbulence interaction
-
-<center>
-<img src='/images/gal2.png' width="400" >
-</center>
-
----
-
 *	Shock/Turbulence interaction
-
-<center>
-<img src='/images/gal3.png' width="400" >
-</center>
-
----
-
-*    Direct Numerical Simulation of turbulent combustion
-
-<center>
-<img src='/images/gal4.png' width="400" >
-</center>
-
----
-
+*	Immersed Boundary Method
 *	Multi-scale and Multi-physics simulations
-
----
-
+*	Direct Numerical Simulation of turbulent combustion
 *	High Performance Computing
-
----
