@@ -16,8 +16,16 @@ toc_sticky: false
 
 <embed src="{{ site.baseurl }}/files/amt2022.pdf" width="650" height="500" type='application/pdf'>
 
-## Modelling training loads and injury: Methodological issues and improved strategies
+## Investigation of turbulence statistics in two-phase gas-liquid flow
 
 13th International ERCOFTAC symposium on engineering, turbulence, modelling and measurements (ETMM13), Rhodes, Greece, 15-17 September, 2021.
 
 <embed src="{{ site.baseurl }}/files/etmm13.pdf" width="650" height="500" type='application/pdf'>
+
+
+## Skewness effects on the turbulence structure in a high-speed compressible and multi-component inert mixing layers
+
+Aviation and Aeronautics Forum and Exposition (AIAA AVIATION Forum), 2-6 August, 2021.
+
+<embed src="{{ site.baseurl }}/files/aiaa-aviation2021.pdf" width="650" height="500" type='application/pdf'>
+
