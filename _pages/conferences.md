@@ -29,3 +29,14 @@ Aviation and Aeronautics Forum and Exposition (AIAA AVIATION Forum), 2-6 August,
 
 <embed src="{{ site.baseurl }}/files/aiaa-aviation2021.pdf" width="650" height="500" type='application/pdf'>
 
+
+## Characterization of the pressure fluctuations within an airfoil boundary layer using WMLES
+
+Parallel CFD International Conference (ParCFD2021), 17-19 May, 2021.
+
+<embed src="{{ site.baseurl }}/files/parcfd2021.pdf" width="650" height="500" type='application/pdf'>
+
+
+
+
+
