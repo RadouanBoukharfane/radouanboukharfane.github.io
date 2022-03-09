@@ -36,12 +36,11 @@ Parallel CFD International Conference (ParCFD2021), 17-19 May, 2021.
 
 <embed src="{{ site.baseurl }}/files/parcfd2021.pdf" width="650" height="500" type='application/pdf'>
 
+## Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor
 
-## Impact of bulk viscosity on the development of shocked shear layer
+Aviation and Aeronautics Forum and Exposition (AIAA SCITECH 2021), 11-15 January, 2021
 
-International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, Spain, 9-13 July, 2018.
-
-<embed src="{{ site.baseurl }}/files/iccfd2018.pdf" width="650" height="500" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/aiaa-sci2021.pdf" width="650" height="500" type='application/pdf'>
 
 
 ## Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds numbers
@@ -60,4 +59,9 @@ International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, S
 <embed src="{{ site.baseurl }}/files/icders2019.pdf" width="650" height="500" type='application/pdf'>
 
 
+## Impact of bulk viscosity on the development of shocked shear layer
+
+International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, Spain, 9-13 July, 2018.
+
+<embed src="{{ site.baseurl }}/files/iccfd2018.pdf" width="650" height="500" type='application/pdf'>
 
