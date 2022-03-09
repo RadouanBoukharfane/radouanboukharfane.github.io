@@ -1,6 +1,6 @@
 ---
 #layout: archive
-title: "Conferences"
+title: "Talks and presentations"
 permalink: /conferences/
 author_profile: true
 toc: false
