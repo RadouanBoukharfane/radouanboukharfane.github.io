@@ -37,6 +37,13 @@ Parallel CFD International Conference (ParCFD2021), 17-19 May, 2021.
 <embed src="{{ site.baseurl }}/files/parcfd2021.pdf" width="650" height="500" type='application/pdf'>
 
 
+## Impact of bulk viscosity on the development of shocked shear layer
+
+International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, Spain, 9-13 July, 2018.
+
+<embed src="{{ site.baseurl }}/files/iccfd2018.pdf" width="650" height="500" type='application/pdf'>
+
+
 
 
 
