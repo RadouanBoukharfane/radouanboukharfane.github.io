@@ -44,6 +44,20 @@ International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, S
 <embed src="{{ site.baseurl }}/files/iccfd2018.pdf" width="650" height="500" type='application/pdf'>
 
 
+## Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds numbers
+
+
+25th AIAA/CEAS Aeroacoustics Conference, Delft University of Technology, Delft, The Netherlands, 20-23 May, 2019.
+
+<embed src="{{ site.baseurl }}/files/aiaa-ceas2019.pdf" width="650" height="500" type='application/pdf'>
+
+## Large-Eddy Simulation (LES) of a Reactive Jet in Supersonic Cross Flow (JISCF) Based on a Hybrid Model of Turbulent Combustion
+
+
+27th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS'2019), Peking University, Beijing, China, July 28 - August 02, 2019.
+
+
+<embed src="{{ site.baseurl }}/files/icders2019.pdf" width="650" height="500" type='application/pdf'>
 
 
 
