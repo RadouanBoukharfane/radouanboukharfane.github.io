@@ -15,6 +15,7 @@ author_profile: true
 ## Journal papers
 ---
 
+14. | Rasha Aljahdali, Lisandro Dalcin, __Radouan Boukharfane__, Irving Reyna Nolasco, David E. Keyes, and Matteo Parsani. "[Optimized explicit Runge–Kutta schemes for high-order collocated discontinuous Galerkin methods for compressible fluid dynamics](https://doi.org/10.1016/j.camwa.2022.05.006)", *Computers & Mathematics with Applications*.  118(1):1-17, (_2022_).
 13. | Aimad Er-raiy, __Radouan Boukharfane__, Linda Alzaben, and Matteo Parsani. "[Assessment of local and non–local turbulent flow components on turbulence–flame interaction](https://doi.org/10.1088/1742-6596/2116/1/012015)", *Journal of Physics Conference Series*. 2116(1):012015, (_2021_).
 12. | __Radouan Boukharfane__, Aimad Er-raiy, Marwane Elkarii, and Matteo Parsani. "[A direct numerical simulation study of skewed three-dimensional spatially evolving compressible mixing layer](https://doi.org/10.1063/5.0072165)", *Physics of Fluids*. Received Editors’ Pick award, 33, 115114, (_2021_).
 11. | __Radouan Boukharfane__, Anthony Techer, and Aimad Er--raiy. "[LES of reacting flow in a Hydrogen jet into supersonic crossflow combustor using a new turbulent combustion model](https://doi.org/10.1007/s42405-021-00424-5)", *International Journal of Aeronautical & Space Sciences*, (_2021_).
