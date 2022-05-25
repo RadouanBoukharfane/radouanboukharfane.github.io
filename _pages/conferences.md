@@ -10,6 +10,13 @@ toc_sticky: false
 
 <!-- {% include toc %} -->
 
+## An Efficient Parallel Solver for LES-DEM Simulation of Fluidized Bed
+
+Parallel CFD International Conference (ParCFD2021), 25-27 May, 2022.
+
+<embed src="{{ site.baseurl }}/files/parcfd2022.pdf" width="650" height="500" type='application/pdf'>
+
+
 ## A Level-Set Immersed Boundary Method For Simulating Flows Around Cylinders In Tandem And Side-By-Side Arrangements
 
 7th International Congress on Thermal Sciences (AMT'2022), Ouarzazate, Morocco, March 22-24, 2022.
