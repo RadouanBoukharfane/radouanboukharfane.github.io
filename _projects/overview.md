@@ -39,24 +39,11 @@ Our overall vision is to bring high-fidelity turbulence simulations to the point
 <hr style="border:3px solid black">
 
 ## Current interests
----
-*	Physics of supersonic turbulence & multiphase flows
----
+
+*	Physics of supersonic turbulence & multiphase flows.
 *	Droplet turbulence interaction
----
-*   Compressible Reacting Flows
----
-The main difficulties in the simulation of compressible reactive flows arise when the chemical reactions introduce time scales that are significantly shorter than the hydrodynamic time scales. Standard shock capturing algorithms smear out the front so that a few grid cells lie within the shock profile. The numerically smeared out temperature profile contains values that are artificially raised above the ignition temperature with the potential to trigger the chemical reaction too early. When the reaction is fast, the gas can be completely burnt in the next time step shifting the discontinuity to the adjacent cell boundary leading to a nonphysical one-grid-cell per time step spurious wave. We have designed a new, fully conservative version of the ghost fluid method applicable for tracking material interfaces, inert shocks, and both deflagration and detonation waves in as many as three spatial dimensions. The exact discrete conservation properties are most important when tracking inert shocks and detonation waves, so that is the focus of this paper. In particular, we address the inviscid reactive Euler equations in the context of stiff detonation waves on coarse grids. The main difficulty here arises when the time scales of the chemical reaction are significantly shorter than the time scales of the fluid dynamics leading to a stiff source term and nonphysical wave phenomena. We use the level set method to track the location of the detonation wave and the ghost fluid method to treat the discontinuous quantities across the inert shock portion of that wave. This leads to a sharp non-smeared shock profile alleviating the nonphysical wave phenomena.
----
 *	Shock/Turbulence interaction
----
 *	Immersed Boundary Method
----
-The prediction of fluid motion around structures is crucial in many important applications in science and engineering. Examples include the classical study of the aerodynamics of aircrafts or the hydrodynamics of ships, but also more modern applications such as the fluid dynamics occurring during materials processing such as the solidification of liquid metal alloys, the study of artificial swimmers or biological flows. For flow regimes where the Reynolds number is low, simulations focus on incompressible flows. This projet aims at developping Immersed Boundary Method Schemes for single phase flows.
----
 *	Multi-scale and Multi-physics simulations
----
 *	Direct Numerical Simulation of turbulent combustion
----
 *	High Performance Computing
----
