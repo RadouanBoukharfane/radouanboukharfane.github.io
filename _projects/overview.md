@@ -35,7 +35,7 @@ For the moment, our research interests are related to the design and implementat
 	* 02/2022 -- 08/2022: Elouali Khayya (Hassan II University of Casablanca).
 	Dynamic mode decomposition and its applications in fluid dynamics.
 
-	* 02/2022 -- 08/2022: Imad Eddine MAACH (ENSAM of Rabat).
+	* 02/2022 -- 08/2022: Imad Eddine Maach (ENSAM of Rabat).
 	Machine learning -- accelerated computational fluid dynamics.
 
 <hr style="border:3px solid black">
