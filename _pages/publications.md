@@ -14,6 +14,8 @@ author_profile: true
 
 ## Journal papers
 ---
+16. | Irving Reyna Nolasco, Aimad Er-Raiy, __Boukharfane, R.__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
+
 15. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 1-11, (_2022_).
 
 14. | Rasha Aljahdali, Lisandro Dalcin, __Radouan Boukharfane__, Irving Reyna Nolasco, David E. Keyes, and Matteo Parsani. "[Optimized explicit Runge–Kutta schemes for high-order collocated discontinuous Galerkin methods for compressible fluid dynamics](https://doi.org/10.1016/j.camwa.2022.05.006)", *Computers & Mathematics with Applications*.  118(1):1-17, (_2022_).

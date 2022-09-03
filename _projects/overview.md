@@ -23,8 +23,20 @@ For the moment, our research interests are related to the design and implementat
 - PhD students
 ---
 
-	*	2022-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
-	*	2022-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
+	*	2021-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
+	*	2021-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
+
+
+- Master students
+---
+	* 03/2022 -- 10/2022: Sarah Baaziz (University of Lille -- France).
+	A GPU-accelerated compressible DNS/LES solver for compressible, reacting, and multi-species flows.
+
+	* 02/2022 -- 08/2022: Elouali Khayya (Hassan II University of Casablanca).
+	Dynamic mode decomposition and its applications in fluid dynamics.
+
+	* 02/2022 -- 08/2022: Imad Eddine MAACH (ENSAM of Rabat).
+	Machine learning -- accelerated computational fluid dynamics.
 
 <hr style="border:3px solid black">
 
