@@ -14,7 +14,7 @@ author_profile: true
 
 ## Journal papers
 ---
-18. Fatima Ez-Zahra El Hamra,__Radouan Boukharfane__, Aimad Er-raiy, and Nilanjan Chakraborty. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Granular Matter*, In press, (_2023_).
+18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__, Aimad Er-raiy, and Nilanjan Chakraborty. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Granular Matter*, In press, (_2023_).
 
 17. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)", *Processes*, 10(10), 1939, (_2022_).
 
