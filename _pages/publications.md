@@ -14,7 +14,11 @@ author_profile: true
 
 ## Journal papers
 ---
-16. | Irving Reyna Nolasco, Aimad Er-Raiy, __Boukharfane, R.__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
+18. Fatima Ez-Zahra El Hamra,__Radouan Boukharfane__, Aimad Er-raiy, and Nilanjan Chakraborty. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Granular Matter*, In press, (_2023_).
+
+17. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)", *Processes*, 10(10), 1939, (_2022_).
+
+16. | Irving Reyna Nolasco, Aimad Er-Raiy, __Radouan Boukharfane__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
 
 15. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 1-11, (_2022_).
 
