@@ -10,6 +10,13 @@ toc_sticky: false
 
 <!-- {% include toc %} -->
 
+## Simulation of Two Phase Flow Using a Modified ACLS Method
+
+International Conference on Modeling, Simulation and Applied Optimization (ICMSAO'23), Marrakech, Morocco, 26-28 April, 2023.
+
+<embed src="{{ site.baseurl }}/files/icmsao2023.pdf" width="650" height="500" type='application/pdf'>
+
+
 ## An Efficient Parallel Solver for LES-DEM Simulation of Fluidized Bed
 
 Parallel CFD International Conference (ParCFD2021), 25-27 May, 2022.
