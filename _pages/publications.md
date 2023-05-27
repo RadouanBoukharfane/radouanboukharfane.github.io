@@ -14,13 +14,17 @@ author_profile: true
 
 ## Journal papers
 ---
-18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__, Aimad Er-raiy, and Nilanjan Chakraborty. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Granular Matter*, In press, (_2023_).
 
-17. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)", *Processes*, 10(10), 1939, (_2022_).
+19. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, Chakib Bouallou, and Nabil El Moçayd. "[Global Sensitivity Analysis for Phosphate Slurry Flow in Pipelines using Generalized Polynomial Chaos](https://doi.org/10.1080/02726351.2022.2110341)", *Physics of Fluids*. 1-11, (_2023_).
 
-16. | Irving Reyna Nolasco, Aimad Er-Raiy, __Radouan Boukharfane__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
+18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Particuology*, In press, (_2023_).
 
-15. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 1-11, (_2022_).
+17. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 41(3)-432--442, (_2023_).
+
+16. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)", *Processes*, 10(10), 1939, (_2022_).
+
+15. | Irving Reyna Nolasco, Aimad Er-Raiy, __Radouan Boukharfane__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
+
 
 14. | Rasha Aljahdali, Lisandro Dalcin, __Radouan Boukharfane__, Irving Reyna Nolasco, David E. Keyes, and Matteo Parsani. "[Optimized explicit Runge–Kutta schemes for high-order collocated discontinuous Galerkin methods for compressible fluid dynamics](https://doi.org/10.1016/j.camwa.2022.05.006)", *Computers & Mathematics with Applications*.  118(1):1-17, (_2022_).
 
