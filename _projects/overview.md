@@ -1,7 +1,7 @@
 ---
 title: "FluidSim Lab - College of Computing"
 excerpt: " 
-The MSDA Group at MSDA/UM6P is a research group focuses on development and application of tools to perform scale-resolving simulations of transient flow phenomena and turbulence. In particular, we focus on development of novel high-order discretisations for use on structured and unstructured grids, as well as their implementation for massively-parallel many-core architectures. We are also interested development of novel meshing methods.
+FluidSim Lab - College of Computing at UM6P is a research group that focuses on the development and application of tools to perform scale-resolving simulations of transient flow phenomena and turbulence. In particular, we concentrate on the development of novel high-order discretizations for use on structured and unstructured grids, as well as their implementation for massively-parallel many-core architectures. We are also interested in the development of novel meshing methods.
 "
 collection: projects
 ---
@@ -11,12 +11,12 @@ collection: projects
     <h1>Welcome to FluidSim Lab - College of Computing</h1>
 
     <p>
-        FluidSim Lab - College of Computing is a dynamic research group dedicated to advancing the field of computational fluid dynamics (CFD). At the forefront of cutting-edge studies and simulations, our team delves into a diverse range of projects spanning development and applied numerical research. Our expertise in CFD, currently recognized as the most efficient fluid flow testing tool, is continually expanding through the exploration of high-tech computers and the utilization of both commercial and open-source CFD packages and libraries.
+        FluidSim Lab - College of Computing is a research group dedicated to advancing the field of computational fluid dynamics (CFD). At the forefront of cutting-edge studies and simulations, our team delves into a diverse range of projects spanning development and applied numerical research.
     </p>
 
     <h2>Our Mission:</h2>
     <p>
-        FluidSim Lab - College of Computing is committed to advancing the science of CFD by pioneering new mathematical methodologies that enhance the robustness of CFD simulations. Our mission extends to providing CFD analyses for various domains, including air conditioning, oil and gas, aerodynamics, blood flow in arteries, heat transfer, and more.
+        FluidSim Lab - College of Computing is committed to advancing the science of CFD by new mathematical methodologies that enhance the robustness of CFD simulations. Our mission extends to providing CFD analyses for various domains, including air conditioning, oil and gas, aerodynamics, heat transfer, and more.
     </p>
 
     <h2>Research Focus:</h2>
@@ -24,32 +24,59 @@ collection: projects
         Currently, our research interests revolve around designing and implementing innovative numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations. These methods find application in solving realistic flow problems across diverse areas of natural science and engineering.
     </p>
 
-    <p>
-        Join us in our quest to push the boundaries of computational physics and fluid mechanics. At FluidSim Lab - College of Computing, we are dedicated to not only understanding the intricacies of fluid dynamics but also contributing to the development of solutions that impact real-world challenges.
-    </p>
 </body>
 
 <hr style="border:3px solid black">
 
 ## Advising and Mentoring
 
-- PhD students
----
+<body>
 
-	*	2021-present: Marwane Elkarii (CFD Simulation and Investigation of Slurry Flows in Pipelines)
-	*	2021-present: Fatima Ez-Zahra El Hamra (Numerical Simulation of Non-Newtonian Fluid Flow with OpenModelica)
+<h2>PhD Students</h2>
+<ul>
+    <li>
+        <strong>2022-present: Sarah Baaziz</strong><br>
+        <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
+    </li>
 
+    <li>
+        <strong>2022-present: Samir Eloteby</strong><br>
+        <em>Research Interests:</em> Computational methods, High-speed flows.
+    </li>
 
-- Master students
----
-	* 03/2022 -- 10/2022: Sarah Baaziz (University of Lille -- France).
-	A GPU-accelerated compressible DNS/LES solver for compressible, reacting, and multi-species flows.
+    <li>
+        <strong>2021-present: Fatima Ez-Zahra El Hamra</strong><br>
+        <em>Research Interests:</em> Simulations, Non-Newtonian Fluid, Granulation.
+    </li>
+</ul>
 
-	* 02/2022 -- 08/2022: Elouali Khayya (Hassan II University of Casablanca).
-	Dynamic mode decomposition and its applications in fluid dynamics.
+<h2>Master Students</h2>
+<ul>
+    <li>
+        <strong>03/2022 -- 10/2022: Sarah Baaziz (University of Lille -- France)</strong><br>
+        A GPU-accelerated compressible DNS/LES solver for compressible, reacting, and multi-species flows.
+    </li>
 
-	* 02/2022 -- 08/2022: Imad Eddine Maach (ENSAM of Rabat).
-	Machine learning -- accelerated computational fluid dynamics.
+    <li>
+        <strong>02/2022 -- 08/2022: Elouali Khayya (Hassan II University of Casablanca)</strong><br>
+        Dynamic mode decomposition and its applications in fluid dynamics.
+    </li>
+
+    <li>
+        <strong>02/2022 -- 08/2022: Imad Eddine Maach (ENSAM of Rabat)</strong><br>
+        Machine learning -- accelerated computational fluid dynamics.
+    </li>
+</ul>
+
+<h2>Former PhD and Visiting Students</h2>
+<ul>
+    <li>
+        <strong>2021-2023: Marwane Elkarii</strong><br>
+        CFD Simulation and Investigation of Slurry Flows in Pipelines.
+    </li>
+</ul>
+
+</body>
 
 <hr style="border:3px solid black">
 
