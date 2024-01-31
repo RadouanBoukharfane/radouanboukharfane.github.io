@@ -1,5 +1,5 @@
 ---
-title: "MSDA Group for computational physics and fluid mechanics"
+title: "FluidSim Lab - College of Computing"
 excerpt: " 
 The MSDA Group at MSDA/UM6P is a research group focuses on development and application of tools to perform scale-resolving simulations of transient flow phenomena and turbulence. In particular, we focus on development of novel high-order discretisations for use on structured and unstructured grids, as well as their implementation for massively-parallel many-core architectures. We are also interested development of novel meshing methods.
 "
@@ -7,14 +7,27 @@ collection: projects
 ---
 
 
-The MSDA Group for computational physics and fluid mechanics at MSDA/UM6P is a research group that includes two professors, graduate students and undergraduate students who undergo a wide range of studies and simulations related to computational fluid dynamics. Working with both development and applied numerical studies, the group is gaining a great expertise and knowledge in the CFD domain, which is currently the widest as well as the most efficient fluid flow testing tool. 
+<body>
+    <h1>Welcome to FluidSim Lab - College of Computing</h1>
 
+    <p>
+        FluidSim Lab - College of Computing is a dynamic research group dedicated to advancing the field of computational fluid dynamics (CFD). At the forefront of cutting-edge studies and simulations, our team delves into a diverse range of projects spanning development and applied numerical research. Our expertise in CFD, currently recognized as the most efficient fluid flow testing tool, is continually expanding through the exploration of high-tech computers and the utilization of both commercial and open-source CFD packages and libraries.
+    </p>
 
-Now CFD is considered the number one tool among all fluid testing units due to the availability of high tech computers besides commercial and open-source CFD packages and libraries accessible to almost every one.
+    <h2>Our Mission:</h2>
+    <p>
+        FluidSim Lab - College of Computing is committed to advancing the science of CFD by pioneering new mathematical methodologies that enhance the robustness of CFD simulations. Our mission extends to providing CFD analyses for various domains, including air conditioning, oil and gas, aerodynamics, blood flow in arteries, heat transfer, and more.
+    </p>
 
-Our mission at the MSDA Group for computational physics and fluid mechanics at MSDA/UM6P is to help develop the science of CFD by devising new mathematical methodologies that render more robust CFD simulations. We also aim at conducting CFD analysis for different domains such as air-conditioing, oil and gas, aerodynamics, blood flow in arteries, heat transfer issues .. etc.
+    <h2>Research Focus:</h2>
+    <p>
+        Currently, our research interests revolve around designing and implementing innovative numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations. These methods find application in solving realistic flow problems across diverse areas of natural science and engineering.
+    </p>
 
-For the moment, our research interests are related to the design and implementation of novel numerical methods for hyperbolic and mixed hyperbolic/parabolic partial differential equations, as well as their application to solve realistic flow problems in various areas of natural science and engineering.
+    <p>
+        Join us in our quest to push the boundaries of computational physics and fluid mechanics. At FluidSim Lab - College of Computing, we are dedicated to not only understanding the intricacies of fluid dynamics but also contributing to the development of solutions that impact real-world challenges.
+    </p>
+</body>
 
 <hr style="border:3px solid black">
 
