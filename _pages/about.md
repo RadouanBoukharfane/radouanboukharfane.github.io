@@ -26,9 +26,8 @@ Hello! My name is Radouan Boukharfane, and I’m an Assistant Professor at <a hr
 
 
 <p>
-<img src='/images/jet_view5.png' alt>
-<center><em>Q-criterion colored by the velocity magnitude of the NASA juncture flow (generated with the help of Irving E. Reyna Nolasco) </em></center>
+<img src='/images/wind.png' alt>
+<center><em>Iso-surfaces of the Q-criterion of the NREL 5MW. The contours are colored by streamwise velocity. </em></center>
 </p>
-
 
 <hr style="border:3px solid black">

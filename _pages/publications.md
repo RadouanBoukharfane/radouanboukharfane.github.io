@@ -17,7 +17,7 @@ author_profile: true
 
 19. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, Chakib Bouallou, and Nabil El Moçayd. "[Global Sensitivity Analysis for Phosphate Slurry Flow in Pipelines using Generalized Polynomial Chaos](https://doi.org/10.1080/02726351.2022.2110341)", *Physics of Fluids*. 1-11, (_2023_).
 
-18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed]", *Particuology*, In press, (_2023_).
+18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed](https://doi.org/10.1016/j.partic.2023.05.009)", *Particuology*, 83(1)-241--257, (_2023_).
 
 17. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 41(3)-432--442, (_2023_).
 
