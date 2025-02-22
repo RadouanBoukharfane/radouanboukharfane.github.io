@@ -15,44 +15,47 @@ author_profile: true
 ## Journal papers
 ---
 
-19. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, Chakib Bouallou, and Nabil El Moçayd. "[Global Sensitivity Analysis for Phosphate Slurry Flow in Pipelines using Generalized Polynomial Chaos](https://doi.org/10.1080/02726351.2022.2110341)", *Physics of Fluids*. 1-11, (_2023_).
+21. | Sarah Baaziz, __Radouan Boukharfane__. "[Large-Eddy Simulation of Highly Underexpanded Sonic Jets from Elliptical Nozzles](https://doi.org/10.1063/5.0229927)" *Physics of Fluids* (_2024_).
 
-18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed](https://doi.org/10.1016/j.partic.2023.05.009)", *Particuology*, 83(1)-241--257, (_2023_).
+20. | Smail Boughou, Ivan Batistić, Ashraf Omar, Philip Cardiff, Daniel J. Inman, __Radouan Boukharfane__. "[Investigation on aeroelasticity of morphing wing through dynamic response and virtual structural damping](https://doi.org/10.1063/5.0223164)". *Physics of Fluids* (_2024_).
 
-17. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology*. 41(3)-432--442, (_2023_).
+19. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, Chakib Bouallou, and Nabil El Moçayd. "[Global Sensitivity Analysis for Phosphate Slurry Flow in Pipelines using Generalized Polynomial Chaos](https://doi.org/10.1080/02726351.2022.2110341)", *Physics of Fluids* (_2023_).
 
-16. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)", *Processes*, 10(10), 1939, (_2022_).
+18. | Fatima Ez-Zahra El Hamra, __Radouan Boukharfane__. "[Development and assessment of algorithms for DEM-LES simulations of fluidized bed](https://doi.org/10.1016/j.partic.2023.05.009)", *Particuology* (_2023_).
 
-15. | Irving Reyna Nolasco, Aimad Er-Raiy, __Radouan Boukharfane__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications*, 124(1):196-217, (_2022_).
+17. | Marwane Elkarii, __Radouan Boukharfane__, Saad Benjelloun, and Chakib Bouallou, "[CFD Simulation and Investigation of Slurry Flows in Pipelines](https://doi.org/10.1080/02726351.2022.2110341)", *Particulate Science and Technology* (_2023_).
 
+16. | Safae Elmisaoui, Saad Benjelloun, __Radouan Boukharfane__, Lhachimi Khamar, Sanae Elmisaoui, and Mohammed Khamar. "[In silico CFD investigation of the granulation hydrodynamics in rotating drum: process sensitivity to the operating parameters and drag models](https://doi.org/10.3390/pr10101939)" (_2022_).
 
-14. | Rasha Aljahdali, Lisandro Dalcin, __Radouan Boukharfane__, Irving Reyna Nolasco, David E. Keyes, and Matteo Parsani. "[Optimized explicit Runge–Kutta schemes for high-order collocated discontinuous Galerkin methods for compressible fluid dynamics](https://doi.org/10.1016/j.camwa.2022.05.006)", *Computers & Mathematics with Applications*.  118(1):1-17, (_2022_).
+15. | Irving Reyna Nolasco, Aimad Er-Raiy, __Radouan Boukharfane__, Anwar Aldhafeeri, Lisandro Dalcin, and Matteo Parsani. "[Eigenanalysis and non-modal analysis of collocated discontinuous {G}alerkin discretizations with the summation-by-parts property](https://doi.org/10.1016/j.camwa.2022.08.005)", *Computers & Mathematics with Applications* (_2022_).
 
-13. | Aimad Er-raiy, __Radouan Boukharfane__, Linda Alzaben, and Matteo Parsani. "[Assessment of local and non–local turbulent flow components on turbulence–flame interaction](https://doi.org/10.1088/1742-6596/2116/1/012015)", *Journal of Physics Conference Series*. 2116(1):012015, (_2021_).
+14. | Rasha Aljahdali, Lisandro Dalcin, __Radouan Boukharfane__, Irving Reyna Nolasco, David E. Keyes, and Matteo Parsani. "[Optimized explicit Runge–Kutta schemes for high-order collocated discontinuous Galerkin methods for compressible fluid dynamics](https://doi.org/10.1016/j.camwa.2022.05.006)", *Computers & Mathematics with Applications* (_2022_).
 
-12. | __Radouan Boukharfane__, Aimad Er-raiy, Marwane Elkarii, and Matteo Parsani. "[A direct numerical simulation study of skewed three-dimensional spatially evolving compressible mixing layer](https://doi.org/10.1063/5.0072165)", *Physics of Fluids*. Received Editors’ Pick award, 33, 115114, (_2021_).
+13. | Aimad Er-raiy, __Radouan Boukharfane__, Linda Alzaben, and Matteo Parsani. "[Assessment of local and non–local turbulent flow components on turbulence–flame interaction](https://doi.org/10.1088/1742-6596/2116/1/012015)", *Journal of Physics Conference Series* (_2021_).
 
-11. | __Radouan Boukharfane__, Anthony Techer, and Aimad Er--raiy. "[LES of reacting flow in a Hydrogen jet into supersonic crossflow combustor using a new turbulent combustion model](https://doi.org/10.1007/s42405-021-00424-5)", *International Journal of Aeronautical & Space Sciences*, (_2021_).
+12. | __Radouan Boukharfane__, Aimad Er-raiy, Marwane Elkarii, and Matteo Parsani. "[A direct numerical simulation study of skewed three-dimensional spatially evolving compressible mixing layer](https://doi.org/10.1063/5.0072165)", *Physics of Fluids* (Received Editors’ Pick award) (_2021_).
 
-10. | __Radouan Boukharfane__, Aimad Er-raiy, Matteo Parsani, and Nilanjan Chakraborty . "[Structure and dynamics of small-scale turbulence in vaporizing two-phase flows](https://www.nature.com/articles/s41598-021-94334-x)". *Scientific Reports - Nature*, 11, 15242 (_2021_).
+11. | __Radouan Boukharfane__, Anthony Techer, and Aimad Er--raiy. "[LES of reacting flow in a Hydrogen jet into supersonic crossflow combustor using a new turbulent combustion model](https://doi.org/10.1007/s42405-021-00424-5)", *International Journal of Aeronautical & Space Sciences* (_2021_).
 
-9. | Diego Rojas, __Radouan Boukharfane__, Lisandro Dalcin, David C. Del Rey Fernàndez, Hendrik Ranocha, David E. Keyes, and Matteo Parsani. "[On the robustness and performance of entropy stable collocated discontinuous Galerkin methods](https://doi.org/10.1016/j.jcp.2020.109891)". *Journal of Computational Physics*, Volume 426, (_2021_).
+10. | __Radouan Boukharfane__, Aimad Er-raiy, Matteo Parsani, and Nilanjan Chakraborty . "[Structure and dynamics of small-scale turbulence in vaporizing two-phase flows](https://www.nature.com/articles/s41598-021-94334-x)". *Scientific Reports - Nature* (_2021_).
 
-8. | __Radouan Boukharfane__, Aimad Er-raiy, Linda Alzaben, and Matteo Parsani. "[Triple decomposition of velocity gradient tensor in compressible turbulence](https://www.mdpi.com/2311-5521/6/3/98)". *Fluids* 6, no. 3:98, (_2021_).
+9. | Diego Rojas, __Radouan Boukharfane__, Lisandro Dalcin, David C. Del Rey Fernàndez, Hendrik Ranocha, David E. Keyes, and Matteo Parsani. "[On the robustness and performance of entropy stable collocated discontinuous Galerkin methods](https://doi.org/10.1016/j.jcp.2020.109891)". *Journal of Computational Physics* (_2021_).
 
-7. | Matteo Parsani, __Radouan Boukharfane__, Irving Reyna Nolasco, David C. Del Rey Fernàndez, Stefano Zampini, Bilel Hadri, and Lisandro Dalcin. "[High-order accurate entropy-stable discontinuous collocated Galerkin methods with the summation-by-parts property for compressible CFD frameworks: Scalable SSDC algorithms and flow solver](https://doi.org/10.1016/j.jcp.2020.109844)". *Journal of Computational Physics*, Volume 424, 109844 (_2021_).
+8. | __Radouan Boukharfane__, Aimad Er-raiy, Linda Alzaben, and Matteo Parsani. "[Triple decomposition of velocity gradient tensor in compressible turbulence](https://www.mdpi.com/2311-5521/6/3/98)". *Fluids* (_2021_).
 
-6. | __Radouan Boukharfane__, Matteo Parsani, and Julien Bodart. "[Characterization of pressure fluctuations within a controlled-diffusion blade boundary layer using the equilibrium wall-modelled LES](https://doi.org/10.1038/s41598-020-69671-y). *Scientific Reports - Nature*, 10, 12735 (_2020_).
+7. | Matteo Parsani, __Radouan Boukharfane__, Irving Reyna Nolasco, David C. Del Rey Fernàndez, Stefano Zampini, Bilel Hadri, and Lisandro Dalcin. "[High-order accurate entropy-stable discontinuous collocated Galerkin methods with the summation-by-parts property for compressible CFD frameworks: Scalable SSDC algorithms and flow solver](https://doi.org/10.1016/j.jcp.2020.109844)". *Journal of Computational Physics* (_2021_).
 
-5. | Fábio Henrique Eugênio Ribeiro, __Radouan Boukharfane__, and Arnaud Mura. "[Highly-resolved large-eddy simulations of combustion stabilization in a scramjet engine model with cavity flameholder](https://doi.org/10.1016/j.compfluid.2019.104344)". *Computers & Fluids* (_2020_): 104344.
+6. | __Radouan Boukharfane__, Matteo Parsani, and Julien Bodart. "[Characterization of pressure fluctuations within a controlled-diffusion blade boundary layer using the equilibrium wall-modelled LES](https://doi.org/10.1038/s41598-020-69671-y). *Scientific Reports - Nature* (_2020_).
 
-4. | Aimad Er-raiy, __Radouan Boukharfane__, and Matteo Parsani. "[Effects of Composition Heterogeneities on Flame Kernel Propagation: A DNS Study"](https://www.mdpi.com/2311-5521/5/3/152). *Fluids*, Fluids 5, no. 3:152, (_2020_).
+5. | Fábio Henrique Eugênio Ribeiro, __Radouan Boukharfane__, and Arnaud Mura. "[Highly-resolved large-eddy simulations of combustion stabilization in a scramjet engine model with cavity flameholder](https://doi.org/10.1016/j.compfluid.2019.104344)". *Computers & Fluids* (_2020_).
 
-3. | __Radouan Boukharfane__, Pedro José Martínez Ferrer, Arnaud Mura, and Vincent Giovangigli. "[On the role of bulk viscosity in compressible reactive shear layer developments](https://www.sciencedirect.com/science/article/pii/S099775461830565X)". *European Journal of Mechanics-B/Fluids* 77 (_2019_): 32-47.
+4. | Aimad Er-raiy, __Radouan Boukharfane__, and Matteo Parsani. "[Effects of Composition Heterogeneities on Flame Kernel Propagation: A DNS Study"](https://www.mdpi.com/2311-5521/5/3/152). *Fluids* (_2020_).
 
-2. | __Radouan Boukharfane__, Zakaria Bouali, and Arnaud Mura. "[Evolution of scalar and velocity dynamics in planar shock-turbulence interaction](https://link.springer.com/article/10.1007/s00193-017-0798-5)". *Shock Waves* 28, no. 6 (_2018_): 1117-1141.
+3. | __Radouan Boukharfane__, Pedro José Martínez Ferrer, Arnaud Mura, and Vincent Giovangigli. "[On the role of bulk viscosity in compressible reactive shear layer developments](https://www.sciencedirect.com/science/article/pii/S099775461830565X)". *European Journal of Mechanics-B/Fluids* (_2019_).
 
-1. | __Radouan Boukharfane__, Fábio Henrique Eugênio Ribeiro, Zakaria Bouali, and Arnaud Mura. "[A combined ghost-point-forcing/direct-forcing immersed boundary method (IBM) for compressible flow simulations](https://www.sciencedirect.com/science/article/pii/S0045793017304267)". *Computers & Fluids* 162 (_2018_): 91-112.
+2. | __Radouan Boukharfane__, Zakaria Bouali, and Arnaud Mura. "[Evolution of scalar and velocity dynamics in planar shock-turbulence interaction](https://link.springer.com/article/10.1007/s00193-017-0798-5)". *Shock Waves* (_2018_).
+
+1. | __Radouan Boukharfane__, Fábio Henrique Eugênio Ribeiro, Zakaria Bouali, and Arnaud Mura. "[A combined ghost-point-forcing/direct-forcing immersed boundary method (IBM) for compressible flow simulations](https://www.sciencedirect.com/science/article/pii/S0045793017304267)". *Computers & Fluids* (_2018_).
 
 
 ## Conference papers
@@ -93,18 +96,6 @@ author_profile: true
 2. | __R. Boukharfane__, Z. Bouali, and A. Mura. ["Direct numerical simulations of shock--scalar mixing interaction"](http://www.icders.org/ICDERS2017/abstracts/ICDERS2017-0883.pdf). *26th ICDERS*, Boston, USA, 30 July-4 August (_2017_).
 
 1. | __R. Boukharfane__, B. Bouvelle, Z. Bouali, and  A. Mura. ["An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles"](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf). *25th ICDERS*, Leeds, UK, 2-7 August (_2015_).
-
-
-<!-- ## Talks and presentations
----
-
-- | "Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion". _27th ICDERS_, Beijing, China, 2019.
-
-- | "Direct numerical simulations of shock-scalar mixing interaction". _26th ICDERS_, Boston, USA, 2017.
-
-- | "An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock-Wave Interactions with Three-Dimensional Solid Obstacles". _25th ICDERS_, Leeds, UK, 2015.
-
-- | "The role of bulk viscosity on the development of reacting compressible shear layer". _10th ICCFD_, Barcelona, Spain, 2018. -->
 
 
 ## Reports
