@@ -8,26 +8,29 @@ redirect_from:
 - /about.html
 ---
 
-__Welcome to my personal webpage__
+### **Welcome to My Personal Webpage**  
 
-<hr style="border:3px solid black">
+<hr style="border:3px solid black">  
 
-<p align="justify">
-This site is pretty bare-bones right now, but hopefully over the next few years it will develop into something that is more useful. In the meantime, feel free to navigate.
-</p>
+<p align="justify">  
+This website is still a work in progress, but I hope to develop it into a more comprehensive and useful platform over time. In the meantime, feel free to explore!  
+</p>  
 
-<hr style="border:3px solid black">
+<hr style="border:3px solid black">  
 
-<p align="justify">
-Hello! My name is Radouan Boukharfane, and I’m an Assistant Professor at <a href="https://um6p.ma/">Mohammed VI Polytechnic University (UM6P)</a>, working at <a href="https://cc.um6p.ma/">The College of Computing</a>. Before joining UM6P, I was for two years postdoctoral fellow at <a href="https://kaust.edu.sa/">King Abdullah University of Science and Technology (Thuwal, Saudi Arabia)</a> in <a href="https://ecrc.kaust.edu.sa/">the Extreme Computing Research Center (ECRC)</a>, and one year postdoctoral researcher at <a href="https://www.isae-supaero.fr/en/">ISAE-SUPAERO (Toulouse, France)</a> at <a href="https://www.isae-supaero.fr/en/research/departments/erodynamics-energetics-and-propulsion-department-daep-91/9aerodynamics-energetics-and-propulsion-department-daep/">the Aerodynamics, Energetics and Propulsion Department (DAEP)</a>. I did my PhD at <a href="https://www.pprime.fr">P' Institute</a> in <a href="https://pprime.fr/la-recherche/fluides-thermique-combustion/structures-de-flamme-et-combustion-ct/">the Fluids, Thermal Science and Combustion Department</a>. I hold a double-degree from <a href="https://www.polymtl.ca/"> Polytechnique de Montreal (Montreal, Canada)</a> (master degree) and <a href="https://www.isae-supaero.fr/en/"> ISAE-SupAero (Toulouse, France)</a> (Diplôme d’ingénieur) after two years in preparatory class for MPSI/MP* grandes écoles.
-</p>
+<p align="justify">  
+Hello! I’m **Radouan Boukharfane**, an **Assistant Professor** at <a href="https://um6p.ma/">Mohammed VI Polytechnic University (UM6P)</a>, affiliated with <a href="https://cc.um6p.ma/">The College of Computing</a>.  
 
-<hr style="border:3px solid black">
+Before joining UM6P, I was a **postdoctoral fellow** for two years at <a href="https://kaust.edu.sa/">King Abdullah University of Science and Technology (KAUST)</a> in <a href="https://ecrc.kaust.edu.sa/">the Extreme Computing Research Center (ECRC)</a>, followed by a one-year **postdoctoral research position** at <a href="https://www.isae-supaero.fr/en/">ISAE-SUPAERO</a> (Toulouse, France) within <a href="https://www.isae-supaero.fr/en/research/departments/erodynamics-energetics-and-propulsion-department-daep-91/9aerodynamics-energetics-and-propulsion-department-daep/">the Aerodynamics, Energetics, and Propulsion Department (DAEP)</a>.  
 
+I earned my **PhD** at the <a href="https://www.pprime.fr">P' Institute</a>, specializing in **Fluids, Thermal Science, and Combustion** (<a href="https://pprime.fr/la-recherche/fluides-thermique-combustion/structures-de-flamme-et-combustion-ct/">FTC Department</a>). Prior to that, I obtained a **double degree**: a **Master’s degree** from <a href="https://www.polymtl.ca/">Polytechnique Montréal</a> (Canada) and a **Diplôme d’ingénieur** from <a href="https://www.isae-supaero.fr/en/">ISAE-SUPAERO</a> (France), following two years of preparatory classes in the **MPSI/MP\*** track for French grandes écoles.  
+</p>  
 
-<p>
-<img src='/images/wind.png' alt>
-<center><em>Iso-surfaces of the Q-criterion of the NREL 5MW. The contours are colored by streamwise velocity. </em></center>
-</p>
+<hr style="border:3px solid black">  
 
-<hr style="border:3px solid black">
+<p align="center">  
+<img src='/images/wind.png' alt="Wind simulation">  
+<em>Iso-surfaces of the Q-criterion of the NREL 5MW turbine, colored by streamwise velocity.</em>  
+</p>  
+
+<hr style="border:3px solid black">  
