@@ -8,7 +8,7 @@ redirect_from:
 - /about.html
 ---
 
-<h3 style="color: rgb(215, 75, 42);">
+<h3 style="color: rgb(215, 75, 42); font-size: 28px;">
     Radouan Boukharfane -- FluidSim Lab (College of Computing, UM6P)
 </h3>
 
