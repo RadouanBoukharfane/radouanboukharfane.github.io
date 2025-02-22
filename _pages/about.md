@@ -8,7 +8,9 @@ redirect_from:
 - /about.html
 ---
 
-### Welcome to My Personal Webpage  
+<h3 style="color: rgb(215, 75, 42);">
+    Radouan Boukharfane -- FluidSim Lab (College of Computing, UM6P)
+</h3>
 
 <hr style="border:3px solid black">  
 
