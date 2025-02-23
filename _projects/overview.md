@@ -15,7 +15,7 @@ author_profile: true
 <li style="display: flex; align-items: center; margin-bottom: 20px;">
     <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 120px; height: 120px; border-radius: 60px; margin-right: 20px;">
     <div>
-        <strong>2024-present: Abdelmalek Bouaziz</strong><br>
+        <strong>2024-present: Abdelmalek Bouaziz </strong><br>
         <em>Graduate Research Assistant</em><br>
         <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
     </div>
