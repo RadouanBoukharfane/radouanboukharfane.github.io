@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-
-## Advising and Mentoring
-
 <body>
 
 <h2>PhD Students</h2>

@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 
-## Advising and Mentoring
-
 <body>
 
 <h2>PhD Students</h2>
@@ -48,7 +46,7 @@ author_profile: true
     </li>
 </ul>
 
-<h2>Former PhD and Visiting Students</h2>
+<h2>Former PhD</h2>
 <ul>
     <li>
         <strong>2021-2023: Marwane Elkarii</strong><br>
