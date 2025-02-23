@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Radouan Boukharfane webpage"
+title                    : "FluidSim Lab"
 title_separator          : "-"
 name                     : &name "Radouan Boukharfane"
 description              : &description "Assistant Professor at UM6P"
