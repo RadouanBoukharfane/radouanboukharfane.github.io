@@ -18,6 +18,7 @@ author_profile: true
     <div>
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
         <em>Graduate Research Assistant</em><br>
+        <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University: Faculty of Science Semlalia).
         <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
     </div>
 </li>
@@ -26,7 +27,8 @@ author_profile: true
     <img src="/images/sarah.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2022-present: Sarah Baaziz</strong><br>
-        <em>Professeur Agrégé - Graduate Research Assistant</em><br>
+        <em>Graduate Research Assistant</em><br>
+        <em>Engineer Diploma 2022 (ENSIAME Engineering School, Valenciennes, France), M.S. 2024 (University of Lille, France).
         <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
     </div>
 </li>

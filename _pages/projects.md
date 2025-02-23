@@ -18,6 +18,7 @@ author_profile: true
     <div>
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
         <em>Graduate Research Assistant</em><br>
+        <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
         <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
     </div>
 </li>
@@ -27,6 +28,7 @@ author_profile: true
     <div>
         <strong>2022-present: Sarah Baaziz</strong><br>
         <em>Graduate Research Assistant</em><br>
+        <em>Eng. Diploma 2014 (ENSIAME, France), M.S. 2022 (University of Lille, France).</em><br>
         <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
     </div>
 </li>
@@ -37,6 +39,7 @@ author_profile: true
     <div>
         <strong>2022-present: Samir Eloteby</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
+        <em>Eng. Diploma 2022 (EMINES - School of Industrial Management, Morocco).</em><br>
         <em>Research Interests:</em> Computational methods, High-speed flows, DNS.
     </div>
 </li>
@@ -47,6 +50,7 @@ author_profile: true
     <div>
         <strong>2022-present: Azzedine Zaidni</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
+        <em>B.S. 2018 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
         <em>Research Interests:</em> Applied Mathematics, Mathematical physics, Hamiltonian dynamics.
     </div>
 </li>
