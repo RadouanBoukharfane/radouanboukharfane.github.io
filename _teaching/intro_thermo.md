@@ -9,6 +9,9 @@ location: "UM6P, Benguerir, Morocco"
 ---
 
 
+
+
+
 Ce cours introduit les principes fondamentaux de la thermodynamique physique, en mettant l'accent sur l'analyse des bilans thermiques appliqués aux gaz parfaits. Il constitue une base essentielle pour comprendre les systèmes énergétiques, tels que les moteurs thermiques (moteur à explosion, Diesel…) et les réfrigérateurs.
 
 ## Contenu du cours
