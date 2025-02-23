@@ -1,11 +1,11 @@
 ---
-title: "Introduction à la statistique"
+title: "Statistique"
 collection: teaching
 type: "Licence Sciences des Données"
 permalink: /teaching/intro_statistics
 venue: "Université Mohammed VI Polytechnique"
 date: 2021-09-01
-location: "Benguerir, Morocco"
+location: "UM6P, Benguerir, Morocco"
 ---
 
 
