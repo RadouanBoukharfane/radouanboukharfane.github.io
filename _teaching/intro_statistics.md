@@ -15,11 +15,11 @@ Ce cours constitue une introduction à la statistique, destinée aux étudiants 
 
 L’étudiant sera capable, face à des situations-problèmes nécessitant la mise en œuvre de méthodes de traitement de données statistiques, de mobiliser les connaissances, techniques et méthodes adéquates, en suivant les consignes de réalisation précisées, pour :
 
-1. S’approprier les concepts fondamentaux de la statistique et le vocabulaire associé à ce domaine ;
-2. Analyser les données disponibles et mettre en œuvre une démarche de résolution de problème adaptée à l’objectif poursuivi, notamment :
+- S’approprier les concepts fondamentaux de la statistique et le vocabulaire associé à ce domaine ;
+- Analyser les données disponibles et mettre en œuvre une démarche de résolution de problème adaptée à l’objectif poursuivi, notamment :
    - Étudier la structure des données dans le problème posé ;
    - Identifier le modèle de traitement le plus approprié ;
    - Organiser les informations intermédiaires nécessaires ;
    - Appliquer les techniques de traitement des données pour :
-     - Calculer : moyenne, écart-type, variance, médiane, quartiles, etc. ;
-3. Justifier l’apport du traitement statistique dans le processus de prise de décision.
+   - Calculer : moyenne, écart-type, variance, médiane, quartiles, etc. ;
+- Justifier l’apport du traitement statistique dans le processus de prise de décision.
