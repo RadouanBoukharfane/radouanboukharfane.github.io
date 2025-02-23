@@ -8,33 +8,35 @@ date: 2021-09-01
 location: "Benguerir, Morocco"
 ---
 
+OpenFOAM is a widely used open-source software package for Computational Fluid Dynamics (CFD). It has a large user base across various engineering and scientific fields, spanning both commercial and academic organizations. OpenFOAM offers an extensive range of features to solve complex fluid flow problems, including those involving chemical reactions, turbulence, and heat transfer, as well as applications in acoustics, solid mechanics, and electromagnetics. It is a free-to-use numerical simulation software, including support for HPC systems.
 
-OpenFOAM is a popular open source software package for Computational Fluid Dynamics (CFD). It has a large user base across most areas of engineering and science, from both commercial and academic organisations. OpenFOAM has an extensive range of features to solve anything from complex fluid flows involving chemical reactions, turbulence and heat transfer, to acoustics, solid mechanics and electromagnetics. It is free-to-use numerical simulation software, including usage on HPC systems.
-In this course you are going to learn how to simulate various flow configurations in the Computational Fluid Dynamics software OpenFOAM. This includes the simulation of laminar and turbulent, stationary and transient flows. Furthermore, you are going to see how to work with multiphase flows. We will cover how to choose correct initial and boundary conditions for the calculation. Moreover you will learn how to define a spatial domain and mesh it with a structured or unstructured grid. You are going to learn how to edit runtime controls and how to run a job including how to check convergence of the solution and visualize it graphically with ParaView.
+In this course, you will learn how to simulate various flow configurations using the Computational Fluid Dynamics software OpenFOAM. This includes the simulation of laminar and turbulent flows, both steady-state and transient. Additionally, you will explore multiphase flow simulations. The course will cover how to select appropriate initial and boundary conditions for calculations. Furthermore, you will learn how to define a spatial domain and generate a mesh using either structured or unstructured grids. You will also learn how to edit runtime controls, run simulations, check solution convergence, and visualize results graphically with ParaView.
 
-### Course prerequisites
+### Course Prerequisites
 
--	Students should have basic computer management skills and be able to work comfortably on the Unix/Linux command line.
+- Students should have basic computer management skills and be comfortable working with the Unix/Linux command line.
 
+### Topics to Be Covered 
 
-### Topics to be covered 
--	OpenFOAM general overview
--	Lid driven cavity example walk through
-*	Pre-processing OpenFOAM cases
-*	OpenFOAM case configuration
-*	Running OpenFOAM case
-*	Post-processing OpenFOAM cases
--	Stress analysis of plateHole example
--	Create custom solver
-*	Adding a transport equation to icoFoam
+- General overview of OpenFOAM
+- Lid-driven cavity example walkthrough
+  * Pre-processing OpenFOAM cases
+  * Configuring an OpenFOAM case
+  * Running an OpenFOAM case
+  * Post-processing OpenFOAM cases
+- Stress analysis of the plateHole example
+- Creating a custom solver
+  * Adding a transport equation to `icoFoam`
 
+### Learning Outcomes
 
-### Learning outcomes
--	Learn how to download, install, compile and run standard OpenFOAM solvers and utilities
--	Learn how to implement solvers and utilities
--	Learn how to implement a turbulence model
--	Learn how to implement a boundary condition
--	Learn the basics of C++ and object orientation
--	Learn how to do CFD with OpenFOAM together with Python, Gnuplot, Paraview etc.
--	Learn basics of Linux (see link on homepage), Doxygen, Compilation procedures, Debugging, Version Control Systems and VTK
--	Learn how to use OpenFOAM by doing a project work
+By the end of the course, you will:
+
+- Learn how to download, install, compile, and run standard OpenFOAM solvers and utilities.
+- Learn how to develop and implement solvers and utilities.
+- Learn how to implement a turbulence model.
+- Learn how to define and implement custom boundary conditions.
+- Gain basic knowledge of C++ and object-oriented programming.
+- Learn how to use OpenFOAM in combination with Python, Gnuplot, ParaView, and other tools.
+- Develop foundational skills in Linux (see link on homepage), Doxygen, compilation procedures, debugging, version control systems, and VTK.
+- Apply your OpenFOAM knowledge through hands-on project work.

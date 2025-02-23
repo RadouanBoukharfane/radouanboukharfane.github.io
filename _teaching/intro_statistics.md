@@ -9,20 +9,17 @@ location: "Benguerir, Morocco"
 ---
 
 
-Ce cours constitue une introduction à la statistique, destiné aux étudiants de première année Licence Sciences des Données.  Son but principal est de donner les éléments de base permettant de comprendre, d'interpréter et de critiquer les informations à caractère statistique. L'accent est mis sur l'utilisation pratique et non sur la rigueur mathématique. L'emploi de formules est réduit au maximum et celles-ci sont simplifiées autant que possible sans affecter la qualité des résultats.
-
+Ce cours constitue une introduction à la statistique, destinée aux étudiants de première année de Licence en Sciences des Données. Son objectif principal est de fournir les éléments de base permettant de comprendre, d'interpréter et de critiquer les informations à caractère statistique. L'accent est mis sur l'utilisation pratique plutôt que sur la rigueur mathématique. L'emploi de formules est réduit au minimum et celles-ci sont simplifiées autant que possible sans altérer la qualité des résultats.
 
 ### Objectifs du cours
 
-L’étudiant sera capable, face à des situations-problèmes se prêtant à la mise en œuvre de méthodes de traitement de données opérationnelles par l’outil
-statistique, les consignes de réalisation lui étant précisées, de mobiliser, d’une manière générale, les connaissances, les techniques et les méthodes pour :
+L’étudiant sera capable, face à des situations-problèmes nécessitant la mise en œuvre de méthodes de traitement de données statistiques, de mobiliser les connaissances, techniques et méthodes adéquates, en suivant les consignes de réalisation précisées, pour :
 
-1.	s’approprier les concepts de base de la statistique et le sens du vocabulaire lié à ce mode de traitement des données ;
-2.	Analyser les données disponibles et mettre en œuvre une démarche de résolution de problème et la justifier en fonction de l’objectif poursuivi, notamment :
--	Analyser la structure des données dans le problème posé;
--	Identifier le modèle de traitement le plus approprié ;
--	Structurer les informations intermédiaires nécessaires ;
--	Appliquer les techniques de traitement des données pour :
--	Calculer: moyenne, écart- type, variance, médiane, quartiles, ...;
-3.	Justifier l’apport du traitement statistique dans la prise de décision.
-
+1. S’approprier les concepts fondamentaux de la statistique et le vocabulaire associé à ce domaine ;
+2. Analyser les données disponibles et mettre en œuvre une démarche de résolution de problème adaptée à l’objectif poursuivi, notamment :
+   - Étudier la structure des données dans le problème posé ;
+   - Identifier le modèle de traitement le plus approprié ;
+   - Organiser les informations intermédiaires nécessaires ;
+   - Appliquer les techniques de traitement des données pour :
+     - Calculer : moyenne, écart-type, variance, médiane, quartiles, etc. ;
+3. Justifier l’apport du traitement statistique dans le processus de prise de décision.

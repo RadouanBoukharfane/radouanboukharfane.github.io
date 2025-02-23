@@ -9,33 +9,33 @@ location: "Benguerir, Morocco"
 ---
 
 
-The Graphics Processing Unit or GPU is nowadays a mainstream component in Scientific Computing. For relatively little money one can have supercomputer performance. However, some extra work has to be done to make an ordinary sequential program suitable for use on the GPU.
-One of the most important tools for using GPUs is currently "CUDA" (Compute Unified Device Architecture). This is basically an extension to the C programming language, which can be used to program the GPU in an easy way. 
-During this course you will learn the basic principles of GPU programming and let you practise with many examples. After this course you should be able to make simple CUDA programs which can be run on a GPU.
+The Graphics Processing Unit (GPU) has become a mainstream component in Scientific Computing. For a relatively low cost, it provides supercomputer-level performance. However, additional work is required to adapt a standard sequential program for execution on a GPU.
 
-### Course contents
+One of the most important tools for GPU computing is **CUDA** (Compute Unified Device Architecture). CUDA is essentially an extension of the C programming language that enables easy GPU programming.
 
-The course focuses on three main topics:
+In this course, you will learn the fundamental principles of GPU programming and practice through numerous examples. By the end of the course, you should be able to write simple CUDA programs and run them on a GPU.
 
--	GPU architecture. The computing and memory systems of different commercial GPUs are introduced. A comparison with conventional CPU and presentation of new upcoming GPUs will be given.
+### Course Contents
 
--	GPU programming with CUDA. The CUDA concepts and how to use them to develop applications for GPU are introduced by making examples from different fields, such as image processing or scientific computing. Also development tools, such debuggers and performance monitoring tools are presented.
+The course covers three main topics:
 
--	GPU programming with GPU libraries and frameworks. High-productivity computing frameworks, among which OpenACC, will be presented. 
+- **GPU Architecture**  
+  The computational and memory architectures of various commercial GPUs will be introduced. A comparison with conventional CPUs will be provided, along with an overview of emerging GPU technologies.
 
-Students will be given access to the GPU cluster, Tegner, at PDC if they do not have access to a computer with GPU.
+- **GPU Programming with CUDA**  
+  The core concepts of CUDA and its application in developing GPU programs will be explored. Examples will be drawn from different fields, such as image processing and scientific computing. Additionally, development tools such as debuggers and performance monitoring tools will be presented.
 
-This short course is part of the program FIP (no idea what it stands for) proposed by *Arts et Métiers Institute of Technology*.
+- **GPU Programming with Libraries and Frameworks**  
+  High-productivity computing frameworks, including OpenACC, will be introduced.
+  
 
-### Prerequisite
- 
--	We are going to use the C/C++ language. Since programing GPU with CUDA is basically an extension of the C language, it is important that you refresh your C knowledge before starting the CUDA module of the course.
+### Prerequisites
 
--	There are many online tutorials about C. Make sure that you know how to compile a C code from the command line, _i.e._, GCC, and write simple programs in C.
+- The course uses **C/C++**. Since CUDA is an extension of the C programming language, it is essential to refresh your C skills before starting the CUDA module.
 
-### Recommended reading
+- Many online tutorials cover C programming. Ensure you know how to compile a C program from the command line (e.g., using **GCC**) and can write basic C programs.
 
--	[CUDA for Engineers](https://www.amazon.fr/CUDA-Engineers-Introduction-High-Performance-Computing/dp/013417741X) by Duane Storti and Mete Yurtoglu.
+### Recommended Reading
 
--	[Programming Massively Parallel Processors](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors) by David Kirk and Wen-mei W. Hwu.
-
+- [CUDA for Engineers](https://www.amazon.fr/CUDA-Engineers-Introduction-High-Performance-Computing/dp/013417741X) by Duane Storti and Mete Yurtoglu.  
+- [Programming Massively Parallel Processors](https://www.sciencedirect.com/book/9780128119860/programming-massively-parallel-processors) by David Kirk and Wen-mei W. Hwu.
