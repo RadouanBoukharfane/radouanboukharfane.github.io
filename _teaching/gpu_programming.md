@@ -9,11 +9,7 @@ location: "Benguerir, Morocco"
 ---
 
 
-The Graphics Processing Unit (GPU) has become a mainstream component in Scientific Computing. For a relatively low cost, it provides supercomputer-level performance. However, additional work is required to adapt a standard sequential program for execution on a GPU.
-
-One of the most important tools for GPU computing is **CUDA** (Compute Unified Device Architecture). CUDA is essentially an extension of the C programming language that enables easy GPU programming.
-
-In this course, you will learn the fundamental principles of GPU programming and practice through numerous examples. By the end of the course, you should be able to write simple CUDA programs and run them on a GPU.
+The Graphics Processing Unit (GPU) has become a mainstream component in Scientific Computing. For a relatively low cost, it provides supercomputer-level performance. However, additional work is required to adapt a standard sequential program for execution on a GPU. One of the most important tools for GPU computing is **CUDA** (Compute Unified Device Architecture). CUDA is essentially an extension of the C programming language that enables easy GPU programming. In this course, you will learn the fundamental principles of GPU programming and practice through numerous examples. By the end of the course, you should be able to write simple CUDA programs and run them on a GPU.
 
 ### Course Contents
 
@@ -27,7 +23,7 @@ The course covers three main topics:
 
 - **GPU Programming with Libraries and Frameworks**  
   High-productivity computing frameworks, including OpenACC, will be introduced.
-  
+
 
 ### Prerequisites
 
