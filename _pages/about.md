@@ -103,4 +103,4 @@ I earned my PhD at the <a href="https://www.pprime.fr">P' Institute</a>, special
 <em>Iso-surfaces of the Q-criterion of the NREL 5MW turbine, colored by streamwise velocity.</em>  
 </p>  --> 
 
-<hr style="border:3px solid black">  
+<!-- <hr style="border:3px solid black">   -->
