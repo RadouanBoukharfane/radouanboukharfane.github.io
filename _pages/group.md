@@ -1,10 +1,11 @@
 ---
-title: "FluidSim Lab - College of Computing"
-excerpt: " 
-FluidSim Lab - College of Computing at UM6P is a research group that focuses on the development and application of tools to perform scale-resolving simulations of transient flow phenomena and turbulence. In particular, we concentrate on the development of novel high-order discretizations for use on structured and unstructured grids, as well as their implementation for massively-parallel many-core architectures. We are also interested in the development of novel meshing methods.
-"
-collection: projects
+layout: archive
+title: "Group"
+permalink: /projects/
+author_profile: true
 ---
+
+{% include base_path %}
 
 
 ## Advising and Mentoring
