@@ -13,8 +13,23 @@ redirect_from:
 </h3>
 
 <p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">  
-<b>FluidSim Lab</b> at the College of Computing, UM6P, develops and applies advanced computational tools to study complex, multi-scale, and multi-physics fluid dynamics. Our work focuses on turbulence, reactive flows, and multi-phase flows, with applications in clean energy, propulsion, and flight mechanics. We aim to improve scale-resolving simulations through high-order discretization methods for both structured and unstructured grids, implemented on massively parallel architectures for computational efficiency.
-</p>  
+    <strong>FluidSim Lab</strong> at the College of Computing, UM6P, specializes in the development and application of 
+    cutting-edge computational tools to investigate complex, multi-scale, and multi-physics fluid dynamics. Our research 
+    focuses on turbulence, reactive flows, and multiphase flows, with applications in clean energy, propulsion, and aerodynamics.
+</p>
+<p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">  
+    We aim to advance scale-resolving simulations through high-order discretization methods tailored for both structured 
+    and unstructured grids, efficiently implemented on massively parallel computing architectures. Our work bridges 
+    applied mathematics, high-performance computing, and fluid physics, positioning our research at the intersection 
+    of computational science and engineering.
+</p>
+<p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">  
+    Our overarching vision is to push the boundaries of high-fidelity turbulence simulations, making them practical 
+    for real-world engineering challenges. We leverage supercomputing resources to deepen our understanding of turbulence 
+    physics, using this knowledge to develop predictive models and cost-effective simulation approaches. Whether refining 
+    theoretical frameworks or pioneering novel algorithms, our research is always guided by the principle of practical 
+    applicability, ensuring that our advancements contribute meaningfully to industry and scientific progress.
+</p>
 
 <hr style="border:2px solid black">
 
@@ -23,15 +38,52 @@ redirect_from:
 </h3>
 
 <h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
-   Simulation and design optimization of wind turbine layouts
+   Simulation and Design Optimization of Wind Turbine Layouts
 </h3>
-
+<p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">
+    Our current research on wind energy focuses on the numerical simulation of atmospheric and wind farm flowfields. We are investigating the effects of Reynolds number, blade geometry, array blockage, variable velocity control, and tip-speed ratio on cross-flow turbine hydrodynamics and performance. A key aspect of this work is linking the unsteady flow structures around each turbine blade to overall turbine performance, enabling better control strategies and design optimizations. By integrating high-fidelity simulations, advanced discretization methods, and data-driven approaches, we aim to enhance efficiency, reduce costs, and improve the reliability of future wind energy systems.
+</p>  
 <p align="center">
 <img src='/images/wind.png' alt="Wind simulation">  
 </p> 
+
+<hr style="border:2px solid black">
+
+<h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
+   Turbulence and Shock Interactions in High-Speed Flows
+</h3>
 <p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">
-    This project focuses on the numerical simulation of atmospheric and wind farm flowfields. Through high-fidelity modeling and large-scale simulations, we aim to enhance our understanding of flow dynamics around wind turbines, optimizing their performance while ensuring reliability and cost-effectiveness. By integrating advanced computational methods, high-order discretization, and data-driven approaches, this project contributes to the development of more efficient wind energy systems, supporting sustainable energy solutions.
-</p>  
+    This research on high-speed flows focuses on the study of turbulence in compressible regimes, particularly shock-turbulence interactions. Compressible turbulence is characterized by fluctuations in thermodynamic variables, which evolve nonlinearly across a wide range of scales. We investigate how these fluctuations depend on compressibility levels, quantified by the turbulent Mach number, and explore their impact on velocity, density, pressure, and temperature statistics. Additionally, we conduct high-resolution simulations to analyze shock-turbulence interactions, where strong turbulence alters shock behavior beyond classical Rankine-Hugoniot relations. By leveraging massively parallel direct numerical simulations, we aim to improve the fundamental understanding of these interactions, with implications for aerodynamics, propulsion, and high-speed flight performance.
+</p> 
+<p align="center">
+<img src='/images/nea-field-topo.png' alt="Underexpanded Jet">  
+</p> 
+
+<hr style="border:2px solid black">
+
+<h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
+    Meso-Scale Fluidization and Particle-Laden Flows
+</h3>
+<p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">
+    This research explores meso-scale fluidization phenomena in particle-laden turbulent flows using the LES-DEM approach. By coupling Large Eddy Simulation (LES) for fluid turbulence with the Discrete Element Method (DEM) for particle interactions, we aim to understand the dynamics of dispersed phases in complex flow environments. This work is particularly relevant to industrial and environmental applications, including pneumatic transport, energy systems, and geophysical flows. Our investigations focus on particle clustering, transport, and turbulence modulation, providing insights into how particles interact with fluid structures and influence overall flow behavior. Through high-fidelity simulations, we seek to enhance predictive models and improve the design of systems involving dense particle suspensions.
+</p> 
+<p align="center">
+<img src='/images/fluidsim.png' alt="Fluidization">  
+</p> 
+
+<hr style="border:2px solid black">
+
+<h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
+    High-Order Numerical Schemes for Conservation Laws
+</h3>
+<p align="justify" style="font-size: 16px; font-family: Times New Roman, sans-serif;">
+    This research focuses on developing high-order, robust shock-capturing numerical schemes that accurately resolve discontinuities while preserving flow structures. By leveraging advanced mathematical tools, we aim to enhance numerical stability and accuracy in complex flow simulations. A key application is the simulation of compressible flows in wind tunnels, where shock-wave interactions with solid boundaries create intricate flow patterns. The Euler equations, which govern compressible flows, are a system of Hyperbolic Conservation Laws (HCL) where mass, momentum, and energy are conserved. Our work focuses on designing shock-capturing schemes that maintain high accuracy in smooth regions while effectively handling shocks, improving simulations in high-speed aerodynamics, astrophysics, and reactive turbulence.
+</p> 
+<p align="center">
+<img src='/images/diedre.png' alt="IBM and WENO7">  
+</p> 
+
+
 
 
 
