@@ -3,6 +3,8 @@ title: "Group"
 collection: projects
 ---
 
+{% include base_path %}
+
 
 ## Advising and Mentoring
 
