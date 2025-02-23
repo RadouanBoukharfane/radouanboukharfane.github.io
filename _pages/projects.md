@@ -10,9 +10,11 @@ author_profile: true
 <body>
 
 <h2>Current members</h2>
+
+
 <ul>
-<li style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 120px; height: 120px; border-radius: 60px; margin-right: 20px;">
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
         <em>Graduate Research Assistant</em><br>
@@ -20,9 +22,18 @@ author_profile: true
     </div>
 </li>
 
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/sarah.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
+    <div>
+        <strong>2022-present: Sarah Baaziz</strong><br>
+        <em>Graduate Research Assistant</em><br>
+        <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
+    </div>
+</li>
 
-<li style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/samir.jpg" alt="Samir Eloteby" style="width: 120px; height: 120px; border-radius: 60px; margin-right: 20px;">
+
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/samir.jpg" alt="Samir Eloteby" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2022-present: Samir Eloteby</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
@@ -31,8 +42,8 @@ author_profile: true
 </li>
 
 
-<li style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="/images/zaidni.jpg" alt="Azzedine Zaidni" style="width: 120px; height: 120px; border-radius: 60px; margin-right: 20px;">
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/zaidni.jpg" alt="Azzedine Zaidni" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2022-present: Azzedine Zaidni</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
@@ -40,15 +51,8 @@ author_profile: true
     </div>
 </li>
 
-
-<li>
-    <!- <img src="path/to/sarah.jpg" alt="Sarah Baaziz"> ->
-    <strong>2022-present: Sarah Baaziz - Graduate Research Assistant</strong><br>
-    <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
-</li>
-
-
 </ul>
+
 
 <h2>Past Members</h2>
 <ul>
