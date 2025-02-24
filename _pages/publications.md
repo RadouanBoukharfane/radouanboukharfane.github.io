@@ -131,7 +131,7 @@ author_profile: true
 # 2015
 ---
 
-- Radouan Boukharfane, B. Bouvelle, Zakaria Bouali, and  Aranud Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". 25th ICDERS, Leeds, UK, 2-7 August (2015).
+- Radouan Boukharfane, Benjamin Bouvelle, Zakaria Bouali, and  Aranud Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". 25th ICDERS, Leeds, UK, 2-7 August (2015).
 
 
 ## Reports

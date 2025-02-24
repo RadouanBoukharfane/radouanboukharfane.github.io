@@ -50,7 +50,7 @@ author_profile: true
     <div>
         <strong>2022-present: Azzedine Zaidni</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
-        <em>B.S. 2017(Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
+        <em>B.S. 2017 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
         <em>Research Interests:</em> Applied Mathematics, Mathematical physics, Hamiltonian dynamics.
     </div>
 </li>
