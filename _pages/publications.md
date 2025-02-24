@@ -72,7 +72,7 @@ author_profile: true
 
 - Matteo Parsani, Radouan Boukharfane, Irving Reyna Nolasco, David C. Del Rey Fernàndez, Stefano Zampini, Bilel Hadri, and Lisandro Dalcin. "[High-order accurate entropy-stable discontinuous collocated Galerkin methods with the summation-by-parts property for compressible CFD frameworks: Scalable SSDC algorithms and flow solver](https://doi.org/10.1016/j.jcp.2020.109844)". Journal of Computational Physics (2021).
 
-- Radouan Boukharfane, Saad Benjelloun, Matteo Parsani, and N. Chakraborty. ["Investigation of turbulence statistics in two-phase gas-liquid flow"](https://etmm.ercoftac.org/etmm13/program/). 13th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Rhodes, Greece, 15-17 September (2021).
+- Radouan Boukharfane, Saad Benjelloun, Matteo Parsani, and N. Chakraborty. "[Investigation of turbulence statistics in two-phase gas-liquid flow](https://etmm.ercoftac.org/etmm13/program/)". 13th International ERCOFTAC Symposium on Engineering Turbulence Modelling and Measurements, Rhodes, Greece, 15-17 September (2021).
 
 - Aimad Er-raiy, Radouan Boukharfane, Linda Alzaben, and Matteo Parsani. "Assessment of local and non–local turbulent flow components on turbulence–flame interaction". 8th European Thermal Sciences Conference, 20-23 September (2021).
 
@@ -86,7 +86,7 @@ author_profile: true
 
 - Radouan Boukharfane, Aimad Er-raiy, and  Matteo Parsani. "[Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor](https://doi.org/10.2514/6.2021-1446)". AIAA SciTech, Tennessee, USA, 20-24 May (2021).
 
-- Rasha Al Jahdali, Radouan Boukharfane, Lisandro Dalcin, and Matteo Parsani. ["Optimized explicit Runge--Kutta schemes for entropy stable discontinuous collocated methods applied to the compressible Euler equations on unstructured grids"](https://doi.org/10.2514/6.2021-0633). AIAA SciTech, Tennessee, USA, 20-24 May (2021).
+- Rasha Al Jahdali, Radouan Boukharfane, Lisandro Dalcin, and Matteo Parsani. "[Optimized explicit Runge--Kutta schemes for entropy stable discontinuous collocated methods applied to the compressible Euler equations on unstructured grids](https://doi.org/10.2514/6.2021-0633)". AIAA SciTech, Tennessee, USA, 20-24 May (2021).
 
 - Ramzi Messahel, Athanasios Boutsikakis, Gilles Grondin, Jérémie Gressier, Matteo Parsani, and Radouan Boukharfane. "[A robust explicit asynchronous time integration method for hyperbolic conservation laws](https://doi.org/10.2514/6.2021-0054)". AIAA SciTech, Tennessee, USA, 20-24 May (2021).
 
@@ -106,7 +106,7 @@ author_profile: true
 
 - Radouan Boukharfane, Pedro José Martínez Ferrer, Arnaud Mura, and Vincent Giovangigli. "[On the role of bulk viscosity in compressible reactive shear layer developments](https://www.sciencedirect.com/science/article/pii/S099775461830565X)". European Journal of Mechanics-B/Fluids (2019).
 
-- Anthony Techer, Radouan Boukharfane, Guillaume Lehnasch, and Arnaut Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf)". ICDERS, Beijing, China, 28 July 28- 2 August (2019).
+- Anthony Techer, Radouan Boukharfane, Guillaume Lehnasch, and Arnaud Mura. "[Large-eddy simulations of a reactive jet in supersonic cross-flow based on a hybrid model of turbulent combustion](http://www.icders.org/ICDERS2019/abstracts/ICDERS2019-055.pdf)". ICDERS, Beijing, China, 28 July 28- 2 August (2019).
 
 - Radouan Boukharfane, Julien Bodart, Marc C. Jacob, Laurent Joly, Thibault Bridel-Bertomeu and Thomas Node-Langlois. "[Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds numbers](https://doi.org/10.2514/6.2019-2722)". AIAA/CEAS Aeroacoustics Conference, p. 2722, (2019). 
 
@@ -117,9 +117,9 @@ author_profile: true
 
 - Radouan Boukharfane, Fábio Henrique Eugênio Ribeiro, Zakaria Bouali, and Arnaud Mura. "[A combined ghost-point-forcing/direct-forcing immersed boundary method (IBM) for compressible flow simulations](https://www.sciencedirect.com/science/article/pii/S0045793017304267)". Computers & Fluids (2018).
 
-- Radouan Boukharfane, Arnaud Mura, P. J. M. Ferrer, and Vincent Giovangigli. "[The role of bulk viscosity on the development of reacting compressible shear layer](https://www.iccfd.org/iccfd10/papers/ICCFD10-086-Paper.pdf)". ICCFD, Barcelona, Spain, 1-13 July (2018).
+- Radouan Boukharfane, Arnaud Mura, Pedro José Martínez Ferrer, and Vincent Giovangigli. "[The role of bulk viscosity on the development of reacting compressible shear layer](https://www.iccfd.org/iccfd10/papers/ICCFD10-086-Paper.pdf)". ICCFD, Barcelona, Spain, 1-13 July (2018).
 
-- F. H. E. Ribeiro, Radouan Boukharfane, Vincent Robin, and Arnaud Mura. "[Numerical study of combustion stabilization in a Scramjet engine model with cavity flameholder](https://www.iccfd.org/iccfd10/papers/ICCFD10-189-Paper.pdf)". ICCFD, Barcelona, Spain, 1-13 July (2018).
+- Fábio Henrique Eugênio Ribeiro, Radouan Boukharfane, Vincent Robin, and Arnaud Mura. "[Numerical study of combustion stabilization in a Scramjet engine model with cavity flameholder](https://www.iccfd.org/iccfd10/papers/ICCFD10-189-Paper.pdf)". ICCFD, Barcelona, Spain, 1-13 July (2018).
 
 
 # 2017
@@ -131,7 +131,7 @@ author_profile: true
 # 2015
 ---
 
-- Radouan Boukharfane, B. Bouvelle, Z. Bouali, and  A. Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". 25th ICDERS, Leeds, UK, 2-7 August (2015).
+- Radouan Boukharfane, B. Bouvelle, Zakaria Bouali, and  Aranud Mura. "[An Immersed Boundary Method to Simulate Compressible Reactive Flows featuring Shock--Wave Interactions with Three-Dimensional Solid Obstacles](http://www.icders.org/ICDERS2015/abstracts/ICDERS2015-214.pdf)". 25th ICDERS, Leeds, UK, 2-7 August (2015).
 
 
 ## Reports
