@@ -13,13 +13,14 @@ author_profile: true
 
 
 <ul>
+
 <li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
-    <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
+    <img src="/images/zaidni.jpg" alt="Azzedine Zaidni" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
-        <strong>2024-present: Abdelmalek Bouaziz </strong><br>
-        <em>Graduate Research Assistant</em><br>
-        <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
-        <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
+        <strong>2022-present: Azzedine Zaidni</strong><br>
+        <em>Professeur Agrégé - Graduate Research Assistant</em><br>
+        <em>B.S. 2017 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
+        <em>Research Interests:</em> Applied Mathematics, Mathematical physics, Hamiltonian dynamics.
     </div>
 </li>
 
@@ -44,14 +45,13 @@ author_profile: true
     </div>
 </li>
 
-
 <li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
-    <img src="/images/zaidni.jpg" alt="Azzedine Zaidni" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
+    <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
-        <strong>2022-present: Azzedine Zaidni</strong><br>
-        <em>Professeur Agrégé - Graduate Research Assistant</em><br>
-        <em>B.S. 2017 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
-        <em>Research Interests:</em> Applied Mathematics, Mathematical physics, Hamiltonian dynamics.
+        <strong>2024-present: Abdelmalek Bouaziz </strong><br>
+        <em>Graduate Research Assistant</em><br>
+        <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
+        <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
     </div>
 </li>
 

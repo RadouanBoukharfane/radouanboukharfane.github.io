@@ -34,7 +34,18 @@ redirect_from:
 <hr style="border:2px solid black">
 
 <h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
-    Current Projects:
+    Research themes
+</h3>
+
+- Turbulence
+- Multiphase flow
+- Combustion
+- Scientific computing
+
+<hr style="border:2px solid black">
+
+<h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
+    Current Projects
 </h3>
 
 <h3 style="color: rgb(215, 75, 42); font-size: 18px;font-family: Times New Roman, sans-serif;">
