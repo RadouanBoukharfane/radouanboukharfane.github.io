@@ -18,7 +18,9 @@ toc_sticky: false
 
 <img src="{{ site.baseurl }}/files/jetellipse.gif" alt="Animated GIF" width="800" height="550">
 
+## Supersonic flow past a circular cylinder at Mach 3 using the immersed boundary method
 
+<img src="{{ site.baseurl }}/files/supcyl.gif" alt="Animated GIF" width="800">
 
 <!-- 
 

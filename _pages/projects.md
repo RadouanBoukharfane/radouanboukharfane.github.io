@@ -20,7 +20,7 @@ author_profile: true
         <strong>2022-present: Azzedine Zaidni</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
         <em>B.S. 2017 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
-        <em>Research Interests:</em> Applied Mathematics, Mathematical physics, Hamiltonian dynamics.
+        <em>Research Interests:</em> Applied Mathematics, Mathematical Physics, Hamiltonian Dynamics.
     </div>
 </li>
 
@@ -30,7 +30,7 @@ author_profile: true
         <strong>2022-present: Sarah Baaziz</strong><br>
         <em>Graduate Research Assistant</em><br>
         <em>Eng. Diploma 2014 (ENSIAME, France), M.S. 2022 (University of Lille, France).</em><br>
-        <em>Research Interests:</em> Turbulence, simulations, DNS/LES, GPU acceleration.
+        <em>Research Interests:</em> Turbulence, DNS/LES, GPU Acceleration.
     </div>
 </li>
 
@@ -40,8 +40,8 @@ author_profile: true
     <div>
         <strong>2022-present: Samir Eloteby</strong><br>
         <em>Professeur Agrégé - Graduate Research Assistant</em><br>
-        <em>Eng. Diploma 2022 (EMINES - School of Industrial Management, Morocco).</em><br>
-        <em>Research Interests:</em> Computational methods, High-speed flows, DNS.
+        <em>Eng. Diploma 2021 (EMINES - School of Industrial Management, Morocco).</em><br>
+        <em>Research Interests:</em> Computational Methods, High-speed Flows, DNS.
     </div>
 </li>
 
@@ -51,7 +51,7 @@ author_profile: true
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
         <em>Graduate Research Assistant</em><br>
         <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
-        <em>Research Interests:</em> Turbulence, simulations, LES, Wind turbines.
+        <em>Research Interests:</em> Turbulence, LES, Wind Turbines.
     </div>
 </li>
 
@@ -79,22 +79,22 @@ author_profile: true
 
     <li>
         <strong>02/2024 - 08/2024: Khaoula Adjane (1337) - Undergraduate Research Assistant </strong><br>
-        A OpenACC acceleration of an structured CFD solver for compressible flows
+        A OpenACC Acceleration of an Structured CFD Solver for Compressible Flows
     </li>
 
     <li>
         <strong>03/2022 - 10/2022: Sarah Baaziz (University of Lille - France) - Undergraduate Research Assistant </strong><br>
-        A GPU-accelerated compressible DNS/LES solver for compressible, reacting, and multi-species flows.
+        A GPU-Accelerated Compressible DNS/LES Solver for Compressible, Reacting, and Multi-species Flows.
     </li>
 
     <li>
         <strong>02/2022 - 08/2022: Elouali Khayya (Hassan II University of Casablanca) - Undergraduate Research Assistant </strong><br>
-        Dynamic mode decomposition and its applications in fluid dynamics.
+        Dynamic Mode Decomposition and its Applications in Fluid Dynamics.
     </li>
 
     <li>
         <strong>02/2022 - 08/2022: Imad Eddine Maach (ENSAM of Rabat) - Undergraduate Research Assistant</strong><br>
-        Machine learning - accelerated computational fluid dynamics.
+        Machine Learning - Accelerated Xomputational Fluid Dynamics.
     </li>
 </ul>
 
