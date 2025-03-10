@@ -20,7 +20,11 @@ toc_sticky: false
 
 ## Highly Underexpanded Sonic Jets from a Rounded Nozzle at NP5 = 15 Using LES
 
+### Streamwize plane
 <img src="{{ site.baseurl }}/files/jetellipse.gif" alt="Animated GIF" width="800" height="550">
+
+### Transverse plane
+<img src="{{ site.baseurl }}/files/jetellipse-YZ.gif" alt="Animated GIF" width="800" height="550">
 
 ## Supersonic Flow Around a Circular Cylinder at Mach 3 Using Immersed Boundary Method
 
