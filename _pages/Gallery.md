@@ -10,15 +10,19 @@ toc_sticky: false
 
 <!-- {% include toc %} -->
 
-## Large eddy simulation of a transverse hydrogen jet in supersonic crossflow
+## Transverse Hydrogen Jet in a Supersonic Crossflow using LES
 
 <img src="{{ site.baseurl }}/files/output_compressed.gif" alt="Animated GIF" width="800">
 
-## Large eddy simulation of highly underexpanded sonic jets from rouded nozzle at NP5=15 
+## Pressure Fluctuations in a Controlled-Diffusion Blade Boundary Layer Using Equilibrium Wall-Modeled LES
+
+<img src="{{ site.baseurl }}/files/airfoil.gif" alt="Animated GIF" width="800" height="550">
+
+## Highly Underexpanded Sonic Jets from a Rounded Nozzle at NP5 = 15 Using LES
 
 <img src="{{ site.baseurl }}/files/jetellipse.gif" alt="Animated GIF" width="800" height="550">
 
-## Supersonic flow past a circular cylinder at Mach 3 using the immersed boundary method
+## Supersonic Flow Around a Circular Cylinder at Mach 3 Using Immersed Boundary Method
 
 <img src="{{ site.baseurl }}/files/supcyl.gif" alt="Animated GIF" width="800">
 
