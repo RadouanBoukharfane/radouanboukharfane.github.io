@@ -8,27 +8,37 @@ toc_sticky: false
 ---
 {% include base_path %}
 
-<!-- {% include toc %} -->
 
-## Transverse Hydrogen Jet in a Supersonic Crossflow using LES
+<!-- Table des matières -->
+- [Transverse Hydrogen Jet in a Supersonic Crossflow using LES](#hydrogen-jet)
+- [Pressure Fluctuations in a Controlled-Diffusion Blade Boundary Layer Using Equilibrium Wall-Modeled LES](#pressure-fluctuations)
+- [Highly Underexpanded Sonic Jets from a Rounded Nozzle at NP5 = 15 Using LES](#underexpanded-jets)
+  - [Streamwise Plane](#streamwise-plane)
+  - [Transverse Plane](#transverse-plane)
+- [Supersonic Flow Around a Circular Cylinder at Mach 3 Using Immersed Boundary Method](#supersonic-cylinder)
+
+---
+
+## <a name="hydrogen-jet"></a> Transverse Hydrogen Jet in a Supersonic Crossflow using LES
 
 <img src="{{ site.baseurl }}/files/output_compressed.gif" alt="Animated GIF" width="800">
 
-## Pressure Fluctuations in a Controlled-Diffusion Blade Boundary Layer Using Equilibrium Wall-Modeled LES
+## <a name="pressure-fluctuations"></a> Pressure Fluctuations in a Controlled-Diffusion Blade Boundary Layer Using Equilibrium Wall-Modeled LES
 
 <img src="{{ site.baseurl }}/files/airfoil.gif" alt="Animated GIF" width="800" height="550">
 
-## Highly Underexpanded Sonic Jets from a Rounded Nozzle at NP5 = 15 Using LES
+## <a name="underexpanded-jets"></a> Highly Underexpanded Sonic Jets from a Rounded Nozzle at NP5 = 15 Using LES
 
-### Streamwize plane
+### <a name="streamwise-plane"></a> Streamwise plane
 <img src="{{ site.baseurl }}/files/jetellipse.gif" alt="Animated GIF" width="800" height="550">
 
-### Transverse plane
+### <a name="transverse-plane"></a> Transverse plane
 <img src="{{ site.baseurl }}/files/jetellipse-YZ.gif" alt="Animated GIF" width="800" height="550">
 
-## Supersonic Flow Around a Circular Cylinder at Mach 3 Using Immersed Boundary Method
+## <a name="supersonic-cylinder"></a> Supersonic Flow Around a Circular Cylinder at Mach 3 Using Immersed Boundary Method
 
 <img src="{{ site.baseurl }}/files/supcyl.gif" alt="Animated GIF" width="800">
+
 
 <!-- 
 
