@@ -8,7 +8,7 @@ toc_sticky: false
 ---
 {% include base_path %}
 
-<!-- {% include toc %} -->
+{% include toc %}
 
 ## Simulation of Two Phase Flow Using a Modified ACLS Method
 

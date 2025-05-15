@@ -15,6 +15,9 @@ author_profile: true
 # 2025
 ---
 
+- Marwane Elkarii, Radouan Boukharfane, and Nabil El Moçayd. "[High-precision surrogate modeling for uncertainty quantification in complex slurry flows
+](https://10.1007/s00707-025-04348-z)", Acta Mechanica (2025).
+
 - Smail Boughou, Ivan Batistić, Radouan Boukharfane, Ashraf Omar, and Daniel J. Inman. "[Developing a Morphing Wingtip: Aeroelastic Design and FSI Analysis](https://doi.org/10.2514/6.2025-0283)". AIAA SciTech, Orlando, FL, Jan. 6-10(2025).
 
 - Sarah Baaziz, Francesco De Vanna, and Radouan Boukharfane. "[Analysis of Highly Underexpanded Sonic Jets from Elliptical Nozzles: A Large-Eddy Simulation Study](https://doi.org/10.2514/6.2025-2745)". AIAA SciTech, Orlando, FL, Jan. 6-10 (2025).
