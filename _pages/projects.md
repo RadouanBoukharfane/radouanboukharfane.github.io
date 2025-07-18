@@ -14,7 +14,7 @@ author_profile: true
 
 <ul>
 
-<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+<!-- <li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
     <img src="/images/zaidni.jpg" alt="Azzedine Zaidni" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2022-present: Azzedine Zaidni</strong><br>
@@ -22,7 +22,7 @@ author_profile: true
         <em>B.S. 2017 (Université Moulay Ismail Meknès, Morocco), Eng. Diploma 2019 (EHTP, Morocco).</em><br>
         <em>Research Interests:</em> Applied Mathematics, Mathematical Physics, Hamiltonian Dynamics.
     </div>
-</li>
+</li> -->
 
 <li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
     <img src="/images/sarah.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
@@ -60,6 +60,11 @@ author_profile: true
 
 <h2>Past Members</h2>
 <ul>
+
+    <li>
+        <strong>2022-2025: Azzedine Zaidni - Ph.D. </strong><br>
+        Two-Phase Fluid Dynamics: Modeling, Metriplectic Formalism, and Well-Posedness Analysis.
+    </li>
 
     <li>
         <strong>2021-2023: Marwane Elkarii - Ph.D. </strong><br>
