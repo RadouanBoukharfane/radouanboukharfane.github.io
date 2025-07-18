@@ -24,6 +24,18 @@ author_profile: true
     </div>
 </li> -->
 
+
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/omar.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
+    <div>
+        <strong>2025-present: Omar El Guernaoui</strong><br>
+        <em>Postdoctoral Researcher</em><br>
+        <em>PhD 2025 (University of Bergen, Norway), Eng. Diploma 2014 (INP/ENSEEIHT, France).</em><br>
+        <em>Research Interests:</em> Meteorology, Atmospheric Boundary Layer, Turbulence.
+    </div>
+</li>
+
+
 <li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
     <img src="/images/sarah.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
