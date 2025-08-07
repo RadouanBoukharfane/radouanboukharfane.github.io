@@ -15,7 +15,7 @@ author_profile: true
 # 2025
 ---
 
-- Radouan Boukharfane. "Highly resolved numerical simulation of pure and blended fuel sonic jets in a Mach 2 crossflow
+- Radouan Boukharfane. "[Highly resolved numerical simulation of pure and blended fuel sonic jets in a Mach 2 crossflow
 ](https://doi.org/10.1080/19942060.2025.2538815)", Engineering Applications of Computational Fluid Mechanics (2025).
 
 
