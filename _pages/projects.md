@@ -40,7 +40,7 @@ author_profile: true
     <img src="/images/sarah.jpg" alt="Sarah Baaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2022-present: Sarah Baaziz</strong><br>
-        <em>Graduate Research Assistant</em><br>
+        <em>PhD Student</em><br>
         <em>Eng. Diploma 2014 (ENSIAME, France), M.S. 2022 (University of Lille, France).</em><br>
         <em>Research Interests:</em> Turbulence, DNS/LES, GPU Acceleration.
     </div>
@@ -61,9 +61,19 @@ author_profile: true
     <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
-        <em>Graduate Research Assistant</em><br>
+        <em>PhD Student<</em><br>
         <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
         <em>Research Interests:</em> Turbulence, LES, Wind Turbines.
+    </div>
+</li>
+
+<li style="display: flex; align-items: center; margin-bottom: 20px; font-family: Times New Roman, sans-serif;">
+    <img src="/images/oum.jpg" alt="Oumkalthoum M'hamdi" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
+    <div>
+        <strong>2025-present: Oumkalthoum M'hamdi </strong><br>
+        <em>PhD Student<</em><br>
+        <em>Eng. Diploma 2025 (Ecole Nationale des Arts et Métiers Meknès, Morocco).</em><br>
+        <em>Research Interests:</em> Machine Learning, LES, Wind Turbines.
     </div>
 </li>
 
