@@ -61,7 +61,7 @@ author_profile: true
     <img src="/images/abdemlak.jpg" alt="Abdelmalek Bouaziz" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2024-present: Abdelmalek Bouaziz </strong><br>
-        <em>PhD Student<</em><br>
+        <em>PhD Student</em><br>
         <em>B.S. 2022, M.S. 2024 (Cadi Ayyad University, Morocco).</em><br>
         <em>Research Interests:</em> Turbulence, LES, Wind Turbines.
     </div>
@@ -71,7 +71,7 @@ author_profile: true
     <img src="/images/oum.jpg" alt="Oumkalthoum M'hamdi" style="width: 140px; height: 140px; border-radius: 60px; margin-right: 20px;">
     <div>
         <strong>2025-present: Oumkalthoum M'hamdi </strong><br>
-        <em>PhD Student<</em><br>
+        <em>PhD Student</em><br>
         <em>Eng. Diploma 2025 (Ecole Nationale des Arts et Métiers Meknès, Morocco).</em><br>
         <em>Research Interests:</em> Machine Learning, LES, Wind Turbines.
     </div>
