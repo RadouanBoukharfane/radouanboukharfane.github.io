@@ -2,6 +2,7 @@
 permalink: /
 layout: home
 title: "FluidSim Lab"
+seo_title: "FluidSim Lab | Computational Fluid Dynamics at UM6P"
 excerpt: "High-fidelity fluid simulation and scientific computing at UM6P"
 author_profile: false
 redirect_from:
@@ -39,8 +40,8 @@ redirect_from:
 <section>
   <p class="section-eyebrow">Selected work</p>
   <h2 class="section-heading">Current research directions</h2>
-  <article class="project-feature"><img class="project-image" src="/images/wind.png" alt="Numerical simulation of a wind turbine flow field"><div class="project-copy"><h3>Wind energy and turbine-array optimisation</h3><p>We connect unsteady blade-scale flow structures to turbine and farm performance, combining high-fidelity simulation with optimisation and data-driven modelling.</p></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/nea-field-topo.png" alt="Topology of a highly underexpanded turbulent jet"><div class="project-copy"><h3>Turbulence and shocks in high-speed flows</h3><p>Massively parallel simulations reveal how compressibility and turbulent fluctuations alter shock dynamics, mixing and thermodynamic statistics.</p></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/fluidsim.png" alt="Particle-laden fluidisation simulation"><div class="project-copy"><h3>Particle-laden and fluidised flows</h3><p>Coupled LES–DEM methods help us understand particle clustering, transport and turbulence modulation in dense suspensions.</p></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/diedre.png" alt="High-order simulation around an immersed geometry"><div class="project-copy"><h3>High-order methods for conservation laws</h3><p>We design accurate, stable algorithms that preserve smooth flow structures while robustly resolving shocks and complex immersed boundaries.</p></div></article>
+  <article class="project-feature"><img class="project-image" src="/images/wind.png" loading="lazy" alt="Numerical simulation of a wind turbine flow field"><div class="project-copy"><h3>Wind energy and turbine-array optimisation</h3><p>We connect unsteady blade-scale flow structures to turbine and farm performance, combining high-fidelity simulation with optimisation and data-driven modelling.</p><a class="project-link" href="/publications/">Related publications <span aria-hidden="true">→</span></a></div></article>
+  <article class="project-feature"><img class="project-image" src="/images/nea-field-topo.png" loading="lazy" alt="Topology of a highly underexpanded turbulent jet"><div class="project-copy"><h3>Turbulence and shocks in high-speed flows</h3><p>Massively parallel simulations reveal how compressibility and turbulent fluctuations alter shock dynamics, mixing and thermodynamic statistics.</p><a class="project-link" href="/Gallery/">View simulations <span aria-hidden="true">→</span></a></div></article>
+  <article class="project-feature"><img class="project-image" src="/images/fluidsim.png" loading="lazy" alt="Particle-laden fluidisation simulation"><div class="project-copy"><h3>Particle-laden and fluidised flows</h3><p>Coupled LES–DEM methods help us understand particle clustering, transport and turbulence modulation in dense suspensions.</p><a class="project-link" href="/projects/">Meet the researchers <span aria-hidden="true">→</span></a></div></article>
+  <article class="project-feature"><img class="project-image" src="/images/diedre.png" loading="lazy" alt="High-order simulation around an immersed geometry"><div class="project-copy"><h3>High-order methods for conservation laws</h3><p>We design accurate, stable algorithms that preserve smooth flow structures while robustly resolving shocks and complex immersed boundaries.</p><a class="project-link" href="/teaching/">Explore our teaching <span aria-hidden="true">→</span></a></div></article>
 </section>

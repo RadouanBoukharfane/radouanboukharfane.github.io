@@ -1,5 +1,28 @@
 <!-- <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=c4a7a7&w=250&t=n&d=3XO0rzgyB1bfOW-kyq6sep_kU6-6JTxRK9TmMI6ZR9U&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script> -->
 
+{% include base_path %}
+<script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  document.querySelectorAll('.presentation-card details').forEach(function (details) {
+    details.addEventListener('toggle', function () {
+      if (!details.open) return;
+      var preview = details.querySelector('embed[data-src]');
+      if (preview) {
+        preview.src = preview.dataset.src;
+        preview.removeAttribute('data-src');
+      }
+    }, { once: true });
+  });
+
+  var menuButton = document.querySelector('.greedy-nav button');
+  if (menuButton) {
+    menuButton.addEventListener('click', function () {
+      window.setTimeout(function () {
+        menuButton.setAttribute('aria-expanded', menuButton.classList.contains('close') ? 'true' : 'false');
+      }, 0);
+    });
+  }
+</script>
 
 
 

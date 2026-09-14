@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="FluidSim Lab">
+  <rect width="64" height="64" rx="14" fill="#0b2745"/>
+  <path d="M9 19c11-8 18 8 29 0s15-3 17 0M9 32c11-8 18 8 29 0s15-3 17 0M9 45c11-8 18 8 29 0s15-3 17 0" fill="none" stroke="#64d4df" stroke-width="4" stroke-linecap="round"/>
+</svg>
