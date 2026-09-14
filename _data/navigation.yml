@@ -1,17 +1,17 @@
 # main links links
 main:
-  
-  - title: "Teaching"
-    url: /teaching/ 
-
-  - title: "Group"
-    url: /projects/  
-  
+  - title: "Research"
+    url: /#research
+  - title: "Team"
+    url: /projects/
   - title: "Publications"
     url: /publications/
-
-  - title: "Gallery"
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Visuals"
     url: /Gallery/
+  - title: "Presentations"
+    url: /conferences/
     
   #- title: "Portfolio"
   #  url: /portfolio/

@@ -7,21 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
-  <div class="notice--info social-icons">You can also find our articles on: <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; <a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></div>
-{% endif %}
+<div class="notice--info social-icons">Complete profiles and citation metrics: <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; <a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; <a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></div>
 
 
 # 2025
 ---
 
-- Radouan Boukharfane. "[Hydrodynamics of pseudo-two-dimensional double-spouted rectangular fluidized beds using computational fluid dynamics and discrete element method](https://doi.org/10.1063/5.0291928)". Physics of Fluids, 2O25.
+- Radouan Boukharfane. "[Hydrodynamics of pseudo-two-dimensional double-spouted rectangular fluidized beds using computational fluid dynamics and discrete element method](https://doi.org/10.1063/5.0291928)". Physics of Fluids (2025).
 
 - Radouan Boukharfane. "[Highly resolved numerical simulation of pure and blended fuel sonic jets in a Mach 2 crossflow
 ](https://doi.org/10.1080/19942060.2025.2538815)", Engineering Applications of Computational Fluid Mechanics (2025).
 
 - Marwane Elkarii, Radouan Boukharfane, and Nabil El Moçayd. "[High-precision surrogate modeling for uncertainty quantification in complex slurry flows
-](https://10.1007/s00707-025-04348-z)", Acta Mechanica (2025).
+](https://doi.org/10.1007/s00707-025-04348-z)", Acta Mechanica (2025).
 
 - Smail Boughou, Ivan Batistić, Radouan Boukharfane, Ashraf Omar, and Daniel J. Inman. "[Developing a Morphing Wingtip: Aeroelastic Design and FSI Analysis](https://doi.org/10.2514/6.2025-0283)". AIAA SciTech, Orlando, FL, Jan. 6-10(2025).
 

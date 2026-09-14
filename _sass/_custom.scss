@@ -1,0 +1,65 @@
+/* FluidSim Lab — academic visual system */
+:root { --ink:#12243a; --muted:#5e7085; --navy:#0b2745; --blue:#126e9b; --cyan:#39b8c8; --paper:#f5f8fb; --line:#dce6ee; }
+html { scroll-behavior:smooth; }
+body { color:var(--ink); background:#fff; font-size:17px; line-height:1.72; }
+a { color:var(--blue); }
+.masthead { position:sticky; top:0; z-index:100; border-bottom:1px solid rgba(18,36,58,.08); background:rgba(255,255,255,.94); backdrop-filter:blur(14px); box-shadow:0 4px 24px rgba(11,39,69,.05); }
+.masthead__inner-wrap { padding-top:.72rem; padding-bottom:.72rem; }
+.greedy-nav { background:transparent; }
+.greedy-nav a { color:var(--ink); font-size:.91rem; font-weight:600; letter-spacing:.01em; }
+.greedy-nav .visible-links li:first-child a { color:var(--navy); font-size:1.12rem; letter-spacing:-.02em; }
+.greedy-nav .visible-links li:first-child a::before { display:none; }
+.greedy-nav .visible-links a::before { height:2px; background:var(--cyan); }
+#main { margin-top:2.75rem; }
+.lab-home { max-width:1280px; }
+.lab-home .page { width:100%; margin-left:0; margin-right:0; padding:0; float:none; }
+.page,.archive { color:var(--ink); }
+.page__title,.archive>h1 { color:var(--navy); font-size:clamp(2rem,4vw,3.25rem); letter-spacing:-.045em; }
+.page__content h2,.archive h2 { margin-top:2.6rem; padding-bottom:.55rem; color:var(--navy); border-bottom:1px solid var(--line); font-size:1.45rem; letter-spacing:-.02em; }
+.page__content h3 { color:var(--navy); }
+.page__content a { text-decoration-thickness:1px; text-underline-offset:3px; }
+.lab-hero { position:relative; overflow:hidden; margin:-2.75rem 0 3.5rem; padding:clamp(3.5rem,9vw,7rem) clamp(1.5rem,5vw,4.5rem); border-radius:0 0 28px 28px; color:#fff; background:linear-gradient(120deg,rgba(7,27,49,.96),rgba(10,74,103,.88)),url('/images/nea-field-topo.png') center/cover; }
+.lab-hero::after { content:""; position:absolute; width:360px; height:360px; right:-130px; top:-150px; border:1px solid rgba(255,255,255,.2); border-radius:50%; box-shadow:0 0 0 52px rgba(255,255,255,.035),0 0 0 104px rgba(255,255,255,.025); }
+.lab-kicker { margin:0 0 .8rem; color:#85dce5; font-size:.78rem; font-weight:800; letter-spacing:.18em; text-transform:uppercase; }
+.lab-hero h1 { max-width:820px; margin:0; color:#fff; font-size:clamp(2.65rem,7vw,5rem); line-height:.98; letter-spacing:-.055em; }
+.lab-hero .lab-lead { max-width:720px; margin:1.5rem 0 0; color:#d9e8f1; font-size:clamp(1.05rem,2vw,1.25rem); line-height:1.65; }
+.lab-actions { display:flex; flex-wrap:wrap; gap:.8rem; margin-top:2rem; }
+.lab-button { display:inline-flex; align-items:center; padding:.75rem 1.1rem; border-radius:999px; background:#fff; color:var(--navy)!important; font-size:.86rem; font-weight:750; text-decoration:none!important; }
+.lab-button--ghost { border:1px solid rgba(255,255,255,.4); background:transparent; color:#fff!important; }
+.lab-intro { max-width:850px; margin-bottom:3.5rem; }
+.lab-intro p { font-size:1.13rem; color:#344b62; }
+.section-heading { margin:0 0 1.4rem; color:var(--navy); font-size:clamp(1.65rem,3vw,2.25rem); letter-spacing:-.035em; }
+.section-eyebrow { margin:0 0 .35rem; color:var(--blue); font-size:.76rem; font-weight:800; letter-spacing:.15em; text-transform:uppercase; }
+.research-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin-bottom:4rem; }
+.research-card { padding:1.5rem; border:1px solid var(--line); border-radius:16px; background:linear-gradient(145deg,#fff,var(--paper)); box-shadow:0 10px 35px rgba(11,39,69,.05); }
+.research-card .number { color:var(--cyan); font-size:.77rem; font-weight:800; letter-spacing:.1em; }
+.research-card h3 { margin:.65rem 0 .45rem; font-size:1.08rem; }
+.research-card p { margin:0; color:var(--muted); font-size:.92rem; line-height:1.6; }
+.project-feature { display:grid; grid-template-columns:1.05fr 1fr; overflow:hidden; margin-bottom:1.25rem; border:1px solid var(--line); border-radius:18px; background:#fff; }
+.project-feature:nth-of-type(even) .project-image { order:2; }
+.project-image { min-height:280px; width:100%; object-fit:cover; background:var(--paper); }
+.project-copy { display:flex; flex-direction:column; justify-content:center; padding:clamp(1.4rem,4vw,2.5rem); }
+.project-copy h3 { margin:0 0 .75rem; font-size:1.28rem; }
+.project-copy p { margin:0; color:var(--muted); font-size:.94rem; }
+.member-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin:1.5rem 0 3rem; }
+.member-card { display:grid; grid-template-columns:104px 1fr; gap:1.15rem; align-items:center; padding:1.1rem; border:1px solid var(--line); border-radius:15px; background:#fff; }
+.member-card img { width:104px; height:104px; object-fit:cover; border-radius:12px; }
+.member-card h3 { margin:0; font-size:1rem; }
+.member-role { margin:.15rem 0 .45rem; color:var(--blue); font-size:.8rem; font-weight:700; }
+.member-meta { margin:0; color:var(--muted); font-size:.76rem; line-height:1.45; }
+.alumni-list { columns:2; column-gap:2.5rem; padding-left:1.1rem; }
+.alumni-list li { break-inside:avoid; margin-bottom:1rem; color:var(--muted); }
+.gallery-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.25rem; }
+.visual-card { overflow:hidden; margin:0; border:1px solid var(--line); border-radius:16px; background:var(--paper); }
+.visual-card img { display:block; width:100%; height:310px; object-fit:cover; }
+.visual-card figcaption { padding:1rem 1.1rem; color:var(--ink); font-size:.86rem; font-weight:650; }
+.archive__item { margin-bottom:1rem; padding:1.1rem 1.25rem; border:1px solid var(--line); border-radius:12px; background:#fff; }
+.archive__item-title { font-size:1.05rem; }
+.archive__item-excerpt { color:var(--muted); font-size:.84rem; }
+.notice--info { border:0; border-left:3px solid var(--cyan); background:var(--paper); }
+.sidebar { padding:1.2rem; border:1px solid var(--line); border-radius:16px; background:var(--paper); }
+.author__avatar img { border:0; box-shadow:0 8px 30px rgba(11,39,69,.13); }
+.author__urls a { color:var(--muted); }
+.page__footer { color:#afc1d2; background:var(--navy); border-top:0; }
+.page__footer .fas,.page__footer .fab,.page__footer .far { color:#afc1d2; }
+@media(max-width:760px) { body{font-size:16px}.lab-hero{margin-left:-1rem;margin-right:-1rem;border-radius:0 0 20px 20px}.research-grid,.member-grid,.gallery-grid,.project-feature{grid-template-columns:1fr}.project-feature:nth-of-type(even) .project-image{order:0}.project-image{min-height:210px}.alumni-list{columns:1} }

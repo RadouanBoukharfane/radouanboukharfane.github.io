@@ -5,11 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Canvas is UM6P’s modern, easy-to-use Learning Management System (LMS) that brings instructors, students, and course content together in one place. It’s cloud-based, so you can access all the courses listed below in real-time from anywhere, on any Internet-connected device.
+Our teaching connects mathematical foundations with hands-on scientific computing. Courses range from thermodynamics and statistics to numerical methods, CFD and GPU programming, with an emphasis on reproducible computational practice.
 
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<h2>Current and previous courses</h2>
+
+{% assign courses = site.teaching | sort: "date" | reverse %}
+{% for post in courses %}
   {% include archive-single.html %}
 {% endfor %}

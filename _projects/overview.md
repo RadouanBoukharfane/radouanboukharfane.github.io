@@ -1,9 +1,10 @@
---
+---
 layout: archive
-title: "Group"
-permalink: /projects/
+title: "Group archive"
+permalink: /group-archive/
 author_profile: true
---
+sitemap: false
+---
 
 {% include base_path %}
 
