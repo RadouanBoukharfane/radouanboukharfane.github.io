@@ -12,7 +12,9 @@ Our teaching connects mathematical foundations with hands-on scientific computin
 
 <h2>Current and previous courses</h2>
 
+<div class="course-list">
 {% assign courses = site.teaching | sort: "date" | reverse %}
 {% for post in courses %}
   {% include archive-single.html %}
 {% endfor %}
+</div>

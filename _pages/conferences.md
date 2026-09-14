@@ -1,81 +1,22 @@
 ---
-#layout: archive
+layout: archive
 title: "Talks and presentations"
 permalink: /conferences/
 author_profile: true
-toc: false
-toc_sticky: false
+excerpt: "Conference contributions and presentation material"
 ---
-{% include base_path %}
 
-{% include toc %}
+Selected conference contributions from FluidSim Lab. Presentation files can be opened inline or downloaded as PDF.
 
-## Simulation of Two Phase Flow Using a Modified ACLS Method
-
-International Conference on Modeling, Simulation and Applied Optimization (ICMSAO'23), Marrakech, Morocco, 26-28 April, 2023.
-
-<embed src="{{ site.baseurl }}/files/icmsao2023.pdf" width="650" height="500" type='application/pdf'>
-
-
-## An Efficient Parallel Solver for LES-DEM Simulation of Fluidized Bed
-
-Parallel CFD International Conference (ParCFD2021), 25-27 May, 2022.
-
-<embed src="{{ site.baseurl }}/files/parcfd2022.pdf" width="650" height="500" type='application/pdf'>
-
-
-## A Level-Set Immersed Boundary Method For Simulating Flows Around Cylinders In Tandem And Side-By-Side Arrangements
-
-7th International Congress on Thermal Sciences (AMT'2022), Ouarzazate, Morocco, March 22-24, 2022.
-
-<embed src="{{ site.baseurl }}/files/amt2022.pdf" width="650" height="500" type='application/pdf'>
-
-## Investigation of turbulence statistics in two-phase gas-liquid flow
-
-13th International ERCOFTAC symposium on engineering, turbulence, modelling and measurements (ETMM13), Rhodes, Greece, 15-17 September, 2021.
-
-<embed src="{{ site.baseurl }}/files/etmm13.pdf" width="650" height="500" type='application/pdf'>
-
-
-## Skewness effects on the turbulence structure in a high-speed compressible and multi-component inert mixing layers
-
-Aviation and Aeronautics Forum and Exposition (AIAA AVIATION Forum), 2-6 August, 2021.
-
-<embed src="{{ site.baseurl }}/files/aiaa-aviation2021.pdf" width="650" height="500" type='application/pdf'>
-
-
-## Characterization of the pressure fluctuations within an airfoil boundary layer using WMLES
-
-Parallel CFD International Conference (ParCFD2021), 17-19 May, 2021.
-
-<embed src="{{ site.baseurl }}/files/parcfd2021.pdf" width="650" height="500" type='application/pdf'>
-
-## Compressibility effects on homogeneous isotropic turbulence using Schur decomposition of the velocity gradient tensor
-
-Aviation and Aeronautics Forum and Exposition (AIAA SCITECH 2021), 11-15 January, 2021
-
-<embed src="{{ site.baseurl }}/files/aiaa-sci2021.pdf" width="650" height="500" type='application/pdf'>
-
-
-## Characterization of the pressure fluctuations within a Controlled-Diffusion airfoil boundary layer at large Reynolds numbers
-
-
-25th AIAA/CEAS Aeroacoustics Conference, Delft University of Technology, Delft, The Netherlands, 20-23 May, 2019.
-
-<embed src="{{ site.baseurl }}/files/aiaa-ceas2019.pdf" width="650" height="500" type='application/pdf'>
-
-## Large-Eddy Simulation (LES) of a Reactive Jet in Supersonic Cross Flow (JISCF) Based on a Hybrid Model of Turbulent Combustion
-
-
-27th International Colloquium on the Dynamics of Explosions and Reactive Systems (ICDERS'2019), Peking University, Beijing, China, July 28 - August 02, 2019.
-
-
-<embed src="{{ site.baseurl }}/files/icders2019.pdf" width="650" height="500" type='application/pdf'>
-
-
-## Impact of bulk viscosity on the development of shocked shear layer
-
-International Conference on Computational Fluid Dynamics (ICCFD10), Barcelona, Spain, 9-13 July, 2018.
-
-<embed src="{{ site.baseurl }}/files/iccfd2018.pdf" width="650" height="500" type='application/pdf'>
-
+<div class="presentation-list">
+  <article class="presentation-card"><div><span class="presentation-year">2023 · ICMSAO, Marrakech</span><h2>Simulation of Two-Phase Flow Using a Modified ACLS Method</h2><p>International Conference on Modeling, Simulation and Applied Optimization, 26–28 April 2023.</p><a href="/files/icmsao2023.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/icmsao2023.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2022 · ParCFD</span><h2>An Efficient Parallel Solver for LES–DEM Simulation of Fluidised Beds</h2><p>Parallel CFD International Conference, 25–27 May 2022.</p><a href="/files/parcfd2022.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/parcfd2022.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2022 · AMT, Ouarzazate</span><h2>A Level-Set Immersed-Boundary Method for Flows Around Cylinder Arrays</h2><p>7th International Congress on Thermal Sciences, 22–24 March 2022.</p><a href="/files/amt2022.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/amt2022.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2021 · ETMM13, Rhodes</span><h2>Turbulence Statistics in Two-Phase Gas–Liquid Flow</h2><p>13th ERCOFTAC Symposium on Engineering, Turbulence, Modelling and Measurements, 15–17 September 2021.</p><a href="/files/etmm13.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/etmm13.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2021 · AIAA AVIATION</span><h2>Skewness Effects in High-Speed Multicomponent Mixing Layers</h2><p>AIAA Aviation and Aeronautics Forum and Exposition, 2–6 August 2021.</p><a href="/files/aiaa-aviation2021.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/aiaa-aviation2021.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2021 · ParCFD</span><h2>Pressure Fluctuations Within an Airfoil Boundary Layer Using WMLES</h2><p>Parallel CFD International Conference, 17–19 May 2021.</p><a href="/files/parcfd2021.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/parcfd2021.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2021 · AIAA SciTech</span><h2>Compressibility Effects on Homogeneous Isotropic Turbulence</h2><p>Schur decomposition of the velocity-gradient tensor, 11–15 January 2021.</p><a href="/files/aiaa-sci2021.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/aiaa-sci2021.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2019 · AIAA/CEAS, Delft</span><h2>Pressure Fluctuations Within a Controlled-Diffusion Airfoil Boundary Layer</h2><p>25th AIAA/CEAS Aeroacoustics Conference, 20–23 May 2019.</p><a href="/files/aiaa-ceas2019.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/aiaa-ceas2019.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2019 · ICDERS, Beijing</span><h2>LES of a Reactive Jet in Supersonic Crossflow</h2><p>27th International Colloquium on the Dynamics of Explosions and Reactive Systems, 28 July–2 August 2019.</p><a href="/files/icders2019.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/icders2019.pdf" type="application/pdf"></details></article>
+  <article class="presentation-card"><div><span class="presentation-year">2018 · ICCFD10, Barcelona</span><h2>Impact of Bulk Viscosity on the Development of a Shocked Shear Layer</h2><p>International Conference on Computational Fluid Dynamics, 9–13 July 2018.</p><a href="/files/iccfd2018.pdf">Download PDF</a></div><details><summary>Preview presentation</summary><embed src="/files/iccfd2018.pdf" type="application/pdf"></details></article>
+</div>
