@@ -11,6 +11,27 @@ author_profile: true
 
 <div class="publication-list" markdown="1">
 
+# 2026
+---
+
+- M. T. Ngahane, M. K. Ferradi, Imad Kissami, and Radouan Boukharfane. "[Equilibrium finite element method for steady-state Stokes equations](https://doi.org/10.1016/j.camwa.2026.04.010)". Computers & Mathematics with Applications, 214, 218–229 (2026).
+
+- Radouan Boukharfane. "[A novel semi-implicit pressure-based solver for LES of compressible flows](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:dfsIfKJdRG4C)". 14th International Symposium on Turbulence and Shear Flow Phenomena, TSFP14 (2026).
+
+- Azzedine Zaidni, Saad Benjelloun, and Radouan Boukharfane. "[Global existence of weak solutions to incompressible anisotropic Cahn–Hilliard–Navier–Stokes system](https://doi.org/10.1142/S0219891626500025)". Journal of Hyperbolic Differential Equations, 23(2), 199–223 (2026).
+
+- Sarah Baaziz and Radouan Boukharfane. "[A combined spectral-geometric framework for inert and reacting shock-driven compressible mixing layers using DMD and optimal transport](https://doi.org/10.1016/j.cnsns.2026.110132)". Communications in Nonlinear Science and Numerical Simulation, 110132 (2026).
+
+- Abdelmalek Bouaziz, Radouan Boukharfane, and Michael F. Howland. "[Combined effects of inflow turbulence length scale, intensity, and wind shear on the wake and performance of two aligned wind turbines](https://doi.org/10.1088/1742-6596/3224/3/032061)". Journal of Physics: Conference Series, 3224(3), 032061 (2026).
+
+- Omar El Guernaoui, D. Li, and Radouan Boukharfane. "[Field observations validate LES-derived scaling of vertical-velocity variance during the afternoon transition of the convective boundary layer](https://doi.org/10.1029/2026GL121998)". Geophysical Research Letters, 53(8), e2026GL121998 (2026).
+
+- Oumkalthoum M'hamdi, Abdelmalek Bouaziz, and Radouan Boukharfane. "[Steering the wind using LES of yaw-driven power optimization in wind farms](https://doi.org/10.1051/epjconf/202637103010)". EPJ Web of Conferences, 371, 03010 (2026).
+
+- Samir El Oteby and Radouan Boukharfane. "[A thermally robust gradient-based finite-difference scheme for multicomponent compressible reacting flows](https://doi.org/10.1051/epjconf/202637101004)". EPJ Web of Conferences, 371, 01004 (2026).
+
+- I. Azatour, Safae El Misaoui, and Radouan Boukharfane. "[Mixing and reaction in a FePO4 continuous stirred-tank reactor: A CFD study](https://doi.org/10.1051/epjconf/202637102003)". EPJ Web of Conferences, 371, 02003 (2026).
+
 # 2025
 ---
 
@@ -26,6 +47,8 @@ author_profile: true
 
 - Sarah Baaziz, Francesco De Vanna, and Radouan Boukharfane. "[Analysis of Highly Underexpanded Sonic Jets from Elliptical Nozzles: A Large-Eddy Simulation Study](https://doi.org/10.2514/6.2025-2745)". AIAA SciTech, Orlando, FL, Jan. 6-10 (2025).
 
+- Radouan Boukharfane and Nabil El Moçayd. "[Sensitivity analysis of key parameters in LES–DEM simulations of fluidized bed systems using generalized polynomial chaos](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:g5m5HwL7SMYC)". 35th European Symposium on Computer Aided Process Engineering, 4, 1433–1437 (2025).
+
 # 2024
 ---
 
@@ -34,6 +57,12 @@ author_profile: true
 - Smail Boughou, Ivan Batistić, Ashraf Omar, Philip Cardiff, Daniel J. Inman, and Radouan Boukharfane. "[Investigation on aeroelasticity of morphing wing through dynamic response and virtual structural damping](https://doi.org/10.1063/5.0223164)". Physics of Fluids (2024).
 
 - Radouan Boukharfane and Romain Buttay. "[Flow topology and alignments of scalar gradients and vorticity in highly under-expanded turbulent jets](https://doi.org/10.2514/6.2024-2200)". AIAA SciTech, Orlando, FL, Jan. 6-10 (2024).
+
+- Radouan Boukharfane. "[Development and validation of a highly scalable finite-volume unstructured LES solver for wind farm flows](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:RYcK_YlVTxYC)". APS Division of Fluid Dynamics Meeting Abstracts, L16.004 (2024).
+
+- Radouan Boukharfane. "[Numerical analysis of two tandem wind turbines under sheared inflow using an actuator-line model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:RGFaLdJalmkC)". 26th International Congress of Theoretical and Applied Mechanics, ICTAM (2024).
+
+- Radouan Boukharfane. "[Simulation of two-phase flow using a modified accurate conservative level-set method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:QIV2ME_5wuYC)". AIP Conference Proceedings, 3034(1), 080004 (2024).
 
 # 2023
 ---
