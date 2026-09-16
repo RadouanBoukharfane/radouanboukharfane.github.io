@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "FluidSim Lab"
+title                    : "Radouan Boukharfane"
 title_separator          : "-"
 name                     : &name "Radouan Boukharfane"
 description              : &description "Computational fluid dynamics, high-fidelity simulation and scientific computing at UM6P"

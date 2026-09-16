@@ -1,47 +1,60 @@
 ---
 permalink: /
 layout: home
-title: "FluidSim Lab"
-seo_title: "FluidSim Lab | Computational Fluid Dynamics at UM6P"
-excerpt: "High-fidelity fluid simulation and scientific computing at UM6P"
+title: "Radouan Boukharfane"
+seo_title: "Radouan Boukharfane | Computational Fluid Dynamics at UM6P"
+excerpt: "Assistant Professor working on computational fluid dynamics and scientific computing at UM6P"
 author_profile: false
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<section class="lab-hero">
-  <p class="lab-kicker">College of Computing · UM6P</p>
-  <h1>We compute flows that shape the future.</h1>
-  <p class="lab-lead">FluidSim Lab develops high-fidelity numerical methods and massively parallel software to understand turbulent, reactive and multiphase flows.</p>
-  <div class="lab-actions">
-    <a class="lab-button" href="#research">Explore our research</a>
-    <a class="lab-button lab-button--ghost" href="/projects/">Meet the team</a>
+<div class="academic-intro">
+  <aside class="academic-profile" aria-label="Profile">
+    <img class="academic-portrait" src="/images/mypic.png" alt="Radouan Boukharfane">
+    <h1>Radouan Boukharfane</h1>
+    <p class="academic-role">Assistant Professor</p>
+    <p class="academic-affiliation">College of Computing<br>Mohammed VI Polytechnic University</p>
+    <div class="academic-social" aria-label="Professional links">
+      <a href="mailto:radouan.boukharfane@um6p.ma">Email</a>
+      <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+      <a href="{{ site.author.orcid }}">ORCID</a>
+      <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+    </div>
+  </aside>
+  <section class="academic-biography" aria-labelledby="biography-heading">
+    <p class="academic-eyebrow">FluidSim Lab · UM6P</p>
+    <h2 id="biography-heading">Biography</h2>
+    <p>I am an Assistant Professor at the College of Computing, Mohammed VI Polytechnic University, where I lead FluidSim Lab. My research lies at the intersection of computational fluid dynamics, applied mathematics and high-performance computing.</p>
+    <p>My group develops numerical methods and parallel software for high-fidelity simulations of turbulent, reactive and multiphase flows. We use these tools to study problems in clean energy, propulsion and advanced aerodynamic systems.</p>
+    <div class="academic-details">
+      <div><h3>Research interests</h3><ul><li>Computational fluid dynamics</li><li>Turbulence and high-speed flows</li><li>Reactive and multiphase flows</li><li>Scientific computing</li></ul></div>
+      <div><h3>At a glance</h3><ul><li>Assistant Professor, UM6P</li><li>Principal investigator, FluidSim Lab</li><li><a href="/projects/">Research team and collaborators</a></li></ul></div>
+    </div>
+  </section>
+</div>
+
+<section class="academic-section" id="research" aria-labelledby="research-heading">
+  <h2 id="research-heading">Research</h2>
+  <p>Our work connects fundamental flow physics with predictive engineering. The group studies compressible turbulence and shock interactions, combustion and mixing, particle-laden flows, and accurate numerical methods for large-scale simulation.</p>
+  <div class="academic-topics">
+    <a href="/Gallery/"><img src="/images/nea-field-topo.png" loading="lazy" alt="Simulation of a high-speed turbulent jet"><span>High-speed and turbulent flows <span aria-hidden="true">↗</span></span></a>
+    <a href="/Gallery/"><img src="/images/wind.png" loading="lazy" alt="Simulated wind turbine flow"><span>Wind energy and complex flows <span aria-hidden="true">↗</span></span></a>
+    <a href="/projects/"><img src="/images/fluidsim.png" loading="lazy" alt="Particle-laden flow simulation"><span>Multiphase flows and computation <span aria-hidden="true">↗</span></span></a>
   </div>
 </section>
 
-<section class="lab-intro">
-  <p class="section-eyebrow">Our mission</p>
-  <h2 class="section-heading">From fundamental physics to predictive engineering</h2>
-  <p>At FluidSim Lab, we work at the intersection of computational fluid dynamics, applied mathematics and high-performance computing. Our goal is to make scale-resolving simulation both more accurate and more practical for clean energy, propulsion and advanced aerodynamic systems.</p>
+<section class="academic-section" aria-labelledby="publications-heading">
+  <div class="academic-section-head"><h2 id="publications-heading">Selected publications</h2><a href="/publications/">All publications →</a></div>
+  <ol class="academic-publications">
+    <li><a href="https://doi.org/10.1016/j.cnsns.2026.110132">A combined spectral-geometric framework for inert and reacting shock-driven compressible mixing layers using DMD and optimal transport</a><span>S. Baaziz and R. Boukharfane · Communications in Nonlinear Science and Numerical Simulation, 2026</span></li>
+    <li><a href="https://doi.org/10.1029/2026GL121998">Field observations validate LES-derived scaling of vertical-velocity variance during the afternoon transition of the convective boundary layer</a><span>O. El Guernaoui, D. Li and R. Boukharfane · Geophysical Research Letters, 2026</span></li>
+    <li><a href="https://doi.org/10.1088/1742-6596/3224/3/032061">Combined effects of inflow turbulence length scale, intensity, and wind shear on the wake and performance of two aligned wind turbines</a><span>A. Bouaziz, R. Boukharfane and M. F. Howland · Journal of Physics: Conference Series, 2026</span></li>
+  </ol>
 </section>
 
-<section id="research">
-  <p class="section-eyebrow">Research themes</p>
-  <h2 class="section-heading">A connected computational programme</h2>
-  <div class="research-grid">
-    <article class="research-card"><span class="number">01</span><h3>Turbulence &amp; high-speed flows</h3><p>DNS and LES of compressible turbulence, shock–turbulence interactions and highly underexpanded jets.</p></article>
-    <article class="research-card"><span class="number">02</span><h3>Multiphase flows</h3><p>Mesoscale fluidisation, particle-laden turbulence and coupled LES–DEM simulation.</p></article>
-    <article class="research-card"><span class="number">03</span><h3>Reactive flows</h3><p>High-fidelity modelling of combustion, mixing and multicomponent transport in extreme regimes.</p></article>
-    <article class="research-card"><span class="number">04</span><h3>Scientific computing</h3><p>High-order discretisations, robust shock-capturing schemes and GPU-accelerated parallel solvers.</p></article>
-  </div>
-</section>
-
-<section>
-  <p class="section-eyebrow">Selected work</p>
-  <h2 class="section-heading">Current research directions</h2>
-  <article class="project-feature"><img class="project-image" src="/images/wind.png" loading="lazy" alt="Numerical simulation of a wind turbine flow field"><div class="project-copy"><h3>Wind energy and turbine-array optimisation</h3><p>We connect unsteady blade-scale flow structures to turbine and farm performance, combining high-fidelity simulation with optimisation and data-driven modelling.</p><a class="project-link" href="/publications/">Related publications <span aria-hidden="true">→</span></a></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/nea-field-topo.png" loading="lazy" alt="Topology of a highly underexpanded turbulent jet"><div class="project-copy"><h3>Turbulence and shocks in high-speed flows</h3><p>Massively parallel simulations reveal how compressibility and turbulent fluctuations alter shock dynamics, mixing and thermodynamic statistics.</p><a class="project-link" href="/Gallery/">View simulations <span aria-hidden="true">→</span></a></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/fluidsim.png" loading="lazy" alt="Particle-laden fluidisation simulation"><div class="project-copy"><h3>Particle-laden and fluidised flows</h3><p>Coupled LES–DEM methods help us understand particle clustering, transport and turbulence modulation in dense suspensions.</p><a class="project-link" href="/projects/">Meet the researchers <span aria-hidden="true">→</span></a></div></article>
-  <article class="project-feature"><img class="project-image" src="/images/diedre.png" loading="lazy" alt="High-order simulation around an immersed geometry"><div class="project-copy"><h3>High-order methods for conservation laws</h3><p>We design accurate, stable algorithms that preserve smooth flow structures while robustly resolving shocks and complex immersed boundaries.</p><a class="project-link" href="/teaching/">Explore our teaching <span aria-hidden="true">→</span></a></div></article>
+<section class="academic-section academic-links" aria-label="More about my work">
+  <div><h2>Teaching</h2><p>Courses in numerical methods, CFD and scientific computing.</p><a href="/teaching/">Explore teaching →</a></div>
+  <div><h2>Research team</h2><p>Meet the researchers and students of FluidSim Lab.</p><a href="/projects/">Meet the team →</a></div>
 </section>
