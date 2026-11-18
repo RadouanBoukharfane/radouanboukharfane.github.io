@@ -48,9 +48,9 @@ redirect_from:
 <section class="academic-section" aria-labelledby="publications-heading">
   <div class="academic-section-head"><h2 id="publications-heading">Selected publications</h2><a href="/publications/">All publications →</a></div>
   <ol class="academic-publications">
+    <li><a href="https://doi.org/10.1080/19942060.2026.2709282">Large-eddy simulation of shear-driven wake interactions in tandem wind turbines</a><span>A. Bouaziz and R. Boukharfane · Engineering Applications of Computational Fluid Mechanics, 2026</span></li>
+    <li><a href="https://arxiv.org/abs/2610.16645">Learning Incompressible 3D Flows from Sparse Samples: A Set Transformer Approach to Divergence-Free Kernel Fitting</a><span>R. Idoughi, R. Boukharfane and P. Wonka · arXiv, 2026</span></li>
     <li><a href="https://doi.org/10.1016/j.cnsns.2026.110132">A combined spectral-geometric framework for inert and reacting shock-driven compressible mixing layers using DMD and optimal transport</a><span>S. Baaziz and R. Boukharfane · Communications in Nonlinear Science and Numerical Simulation, 2026</span></li>
-    <li><a href="https://doi.org/10.1029/2026GL121998">Field observations validate LES-derived scaling of vertical-velocity variance during the afternoon transition of the convective boundary layer</a><span>O. El Guernaoui, D. Li and R. Boukharfane · Geophysical Research Letters, 2026</span></li>
-    <li><a href="https://doi.org/10.1088/1742-6596/3224/3/032061">Combined effects of inflow turbulence length scale, intensity, and wind shear on the wake and performance of two aligned wind turbines</a><span>A. Bouaziz, R. Boukharfane and M. F. Howland · Journal of Physics: Conference Series, 2026</span></li>
   </ol>
 </section>
 

@@ -14,6 +14,12 @@ author_profile: true
 # 2026
 ---
 
+- Ramzi Idoughi, Radouan Boukharfane, and Peter Wonka. "[Learning Incompressible 3D Flows from Sparse Samples: A Set Transformer Approach to Divergence-Free Kernel Fitting](https://arxiv.org/abs/2610.16645)". arXiv:2610.16645 (2026).
+
+- Abdelmalek Bouaziz and Radouan Boukharfane. "[Large-eddy simulation of shear-driven wake interactions in tandem wind turbines](https://doi.org/10.1080/19942060.2026.2709282)". Engineering Applications of Computational Fluid Mechanics, 20(1), 2709282 (2026).
+
+- Radouan Boukharfane. "[Discrete topology sensing in turbulence via signed pairwise graphlets of the velocity gradient tensor](https://arxiv.org/abs/2609.23799)". arXiv:2609.23799 (2026).
+
 - M. T. Ngahane, M. K. Ferradi, Imad Kissami, and Radouan Boukharfane. "[Equilibrium finite element method for steady-state Stokes equations](https://doi.org/10.1016/j.camwa.2026.04.010)". Computers & Mathematics with Applications, 214, 218–229 (2026).
 
 - Radouan Boukharfane. "[A novel semi-implicit pressure-based solver for LES of compressible flows](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ahOg0jsAAAAJ&citation_for_view=ahOg0jsAAAAJ:dfsIfKJdRG4C)". 14th International Symposium on Turbulence and Shear Flow Phenomena, TSFP14 (2026).
@@ -34,6 +40,8 @@ author_profile: true
 
 # 2025
 ---
+
+- Radouan Boukharfane. "[Modal analysis of oblique shock-induced flow dynamics in a supersonic reacting shear layer](https://arxiv.org/abs/2505.07636)". arXiv:2505.07636 (2025; revised October 2026).
 
 - Radouan Boukharfane. "[Hydrodynamics of pseudo-two-dimensional double-spouted rectangular fluidized beds using computational fluid dynamics and discrete element method](https://doi.org/10.1063/5.0291928)". Physics of Fluids (2025).
 

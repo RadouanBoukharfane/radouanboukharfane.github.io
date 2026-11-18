@@ -55,6 +55,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible,video:focus-visible {
 .member-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1rem; margin:1.5rem 0 3rem; }
 .member-card { display:grid; grid-template-columns:104px 1fr; gap:1.15rem; align-items:center; min-height:158px; padding:1.1rem; border:1px solid var(--line); border-radius:15px; background:#fff; }
 .member-card img { width:104px; height:104px; object-fit:cover; border-radius:12px; }
+.member-initials { display:flex; align-items:center; justify-content:center; width:104px; height:104px; border-radius:12px; color:#fff; background:linear-gradient(145deg,var(--blue),var(--navy)); font-size:1.45rem; font-weight:800; letter-spacing:.06em; }
 .member-card h3 { margin:0; font-size:1rem; }
 .member-role { margin:.15rem 0 .45rem; color:var(--blue); font-size:.8rem; font-weight:700; }
 .member-meta { margin:0; color:var(--muted); font-size:.76rem; line-height:1.45; }
